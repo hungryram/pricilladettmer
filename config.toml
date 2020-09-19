@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://lifeandbites.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+[[menu.main]]
+name = "Blog"
+url = "/blog"
+weight = 5
