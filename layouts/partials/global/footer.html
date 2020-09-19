@@ -12,7 +12,6 @@
         {{ else }}
         {{ end }}
         <h2 class="title is-6 mb-0 has-text-white"></h2>
-        <p>{{ $footerContact.license_type }} {{ $footerContact.license_number }}</p>
         {{ if $footerDesign.footer_bio }}
           <p class="pb-6 is-size-6">{{ $footerDesign.footer_bio }}</p>
         {{ end }}
@@ -35,13 +34,11 @@
         </ul>
       </div>
       <div class="column">
-        <h4 class="title is-6 has-text-white is-uppercase">Links</h4>
+        <h4 class="title is-6">Recent Posts</h4>
         <ul>
-          <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-          <li><a href="https://wallstrealty.idxhome.com/featured/73231">Listings</a></li>
-          <li><a href="https://wallstrealty.com/team">Team</a></li>
-          <li><a href="https://wallstrealty.idxhome.com/organizer/login/73231">My Account</a></li>
-          <li><a href="https://wallstrealty.idxhome.com/contact/73231">Contact</a></li>
+            {{ range  first 5 ( where $.Site.RegularPages "Type" "blog") }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{end}}
         </ul>
       </div>
       <div class="column">
@@ -67,8 +64,6 @@
 </footer>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-lightbox/0.2.12/slick-lightbox.min.js"></script>
 <script src="{{.Site.BaseURL}}/js/main.min.js"></script>
 </body>
 </html>
