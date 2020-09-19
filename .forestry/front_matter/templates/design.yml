@@ -2,3 +2,5 @@
 label: Design
 hide_body: true
 fields: []
+pages:
+- data/design.yaml
