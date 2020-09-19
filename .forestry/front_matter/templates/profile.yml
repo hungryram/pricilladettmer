@@ -1,4 +1,54 @@
 ---
 label: Profile
 hide_body: false
-fields: []
+fields:
+- name: website_title
+  type: text
+  config:
+    required: false
+  label: Website Title
+- name: social_media
+  type: field_group
+  config: {}
+  fields:
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: Instagram
+  - name: twitter
+    type: text
+    config:
+      required: false
+    label: Twitter
+  - name: facebook
+    type: text
+    config:
+      required: false
+    label: Facebook
+  - name: pinterest
+    type: text
+    config:
+      required: false
+    label: Pinterest
+  label: Social Media
+- name: contact_information
+  type: field_group
+  config: {}
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: phone
+    type: text
+    config:
+      required: false
+    label: Phone
+  - name: email
+    type: text
+    config:
+      required: false
+    label: Email
+  label: Contact Information
