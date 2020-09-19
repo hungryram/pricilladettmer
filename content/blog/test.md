@@ -1,10 +1,10 @@
 +++
-author = []
-categories = ["Food", "Recipe"]
+author = "author/pricilla-dettmer.md"
+categories = ["introduction ", "about me", "contact"]
 date = 2020-09-15T07:00:00Z
-featured_image = "/uploads/san-diego.jpg"
-tags = ["thai food"]
-title = "test"
+featured_image = "/uploads/new-blog-post-photo-frame-announcement-social-media-post.png"
+tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
+title = "Introductions and First Blog Post!"
 url = ""
 [search_engine_optimization]
 meta_description = ""
