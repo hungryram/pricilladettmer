@@ -1,4 +1,8 @@
 /* NAV */
+div.hero-head {
+    background: #ffffff;
+}
+
 @media screen and (max-width: 1087px){
 
     span.navbar-burger {
