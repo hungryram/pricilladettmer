@@ -46,21 +46,21 @@
                 {{ end }}
           </a>
           <span class="navbar-burger burger" data-target="navbarMenuHeroC">
-            <span {{ if not $.IsHome }}{{ if $.Site.Data.design.colors.enable_black_menu_items }}style="color: black"{{ end }}{{ else }}style="color: #ccc"{{end}}></span>
-            <span {{ if not $.IsHome }}{{ if $.Site.Data.design.colors.enable_black_menu_items }}style="color: black"{{ end }}{{ else }}style="color: #ccc"{{end}}></span>
-            <span {{ if not $.IsHome }}{{ if $.Site.Data.design.colors.enable_black_menu_items }}style="color: black"{{ end }}{{ else }}style="color: #ccc"{{end}}></span>
+            <span class="has-text-black"></span>
+            <span class="has-text-black"></span>
+            <span class="has-text-black"></span>
           </span>
         </div>
-        <div id="navbarMenuHeroC" class="navbar-menu" {{ if not $.IsHome }}{{ if $.Site.Data.design.colors.enable_black_menu_items }}style="color: black"{{ end }}{{ else }}style="color: #fff"{{end}}>
+        <div id="navbarMenuHeroC" class="navbar-menu">
           <div class="navbar-end">
             <ul class="head-nav">
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
                   <li class="sub-menu{{if $currentPage.HasMenuCurrent "main" . }} active{{end}}">
-                  <a href="javascript:;" class="parent-drop"{{ if $.Site.Data.design.colors.enable_black_menu_items }}style="color: black"{{ else }}style="color: #fff"{{end}}>
+                  <a href="javascript:;" class="parent-drop">
                       {{ .Pre }}
-                      <span>{{ .Name }}</span>
+                      <span class="has-text-black">{{ .Name }}</span>
                       <i class="fas fa-caret-down dropdown-i"></i>
                   </a>
                   <ul class="sub" style="background: #fff;">
@@ -70,7 +70,7 @@
                   </ul>
                 {{else}}
                   <li>
-                  <a href="{{.URL}}" class="nav-item"{{ if $.Site.Data.design.colors.enable_black_menu_items }}style="color: black"{{ else }}style="color: #fff"{{end}}>
+                  <a href="{{.URL}}" class="nav-item has-text-black">
                       {{ .Pre }}
                       <span>{{ .Name }}</span>
                   </a>
