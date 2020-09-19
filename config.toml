@@ -4,12 +4,12 @@ summaryLength = 20
 [[menu.main]]
 name = "Home"
 url = "/"
-weight = 3
+weight = 1
 [[menu.main]]
 name = "Blog"
 url = "/blog"
-weight = 1
+weight = 2
 [[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 2
+weight = 3
