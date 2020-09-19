@@ -46,5 +46,29 @@ fields:
         format: markdown
     label: Body Text
   label: Sidebar
+- name: hero
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Body Text
+  label: Hero
 pages:
 - data/design.yaml
