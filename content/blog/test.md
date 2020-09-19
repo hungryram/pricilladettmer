@@ -7,7 +7,7 @@ tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "intr
 title = "Introductions and First Blog Post!"
 url = ""
 [menu.main]
-name = "Mom Life"
+name = "Life"
 weight = 3
 [search_engine_optimization]
 meta_description = ""
