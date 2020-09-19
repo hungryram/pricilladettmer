@@ -1,5 +1,5 @@
 +++
-title = "Pricilla Dettmer"
+title = "Life and Bites"
 
 +++
 Brief summary
