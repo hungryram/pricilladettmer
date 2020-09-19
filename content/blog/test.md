@@ -6,6 +6,9 @@ featured_image = "/uploads/new-blog-post-photo-frame-announcement-social-media-p
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
 title = "Introductions and First Blog Post!"
 url = ""
+[menu.main]
+name = "Mom Life"
+weight = 3
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
