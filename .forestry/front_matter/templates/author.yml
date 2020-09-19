@@ -1,4 +1,9 @@
 ---
 label: Author
 hide_body: false
-fields: []
+fields:
+- name: full_name
+  type: text
+  config:
+    required: false
+  label: Full Name
