@@ -2,10 +2,14 @@ baseURL = "https://lifeandbites.netlify.app/"
 languageCode = "en-us"
 summaryLength = 20
 [[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 6
+name = "Home"
+url = "/"
+weight = 3
 [[menu.main]]
 name = "Blog"
 url = "/blog"
-weight = 5
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 2
