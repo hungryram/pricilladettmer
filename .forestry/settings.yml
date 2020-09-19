@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
+- type: document
+  path: data/design.yaml
+  label: Design
 - type: directory
   path: content/author
   label: Author
@@ -23,10 +26,6 @@ sections:
   match: "**/*"
   templates:
   - blog
-- type: document
-  path: data/design.yaml
-  label: Design
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
