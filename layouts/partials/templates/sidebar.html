@@ -1,8 +1,8 @@
-<figure class="image is-128x128">
-    <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-</figure>
+<div class="rounded-image">
+    <img src="{{ .Site.Data.design.sidebar.photo }}" alt="" style="width:200px;height:200px;object-fit:cover;border-radius:50%">
+</div>
     <div class="author-bio">
-        <h1 class="title is-4"></h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia harum cum tempore ipsum veniam sit fugit enim, nemo distinctio, consequuntur maxime eligendi commodi aperiam. Vero pariatur dolor itaque delectus voluptatem?</p>
+        <h1 class="title is-4 has-text-centered mt-5">{{ .Site.Data.design.sidebar.heading }}</h1>
+        <p>{{ .Site.Data.design.sidebar.body_text | markdownify }}</p>
     </div>
 </figure>

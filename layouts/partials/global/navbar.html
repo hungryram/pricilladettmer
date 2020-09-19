@@ -1,85 +1,47 @@
-<div class="hero-head">
-    <header class="navbar" style="{{ safeHTMLAttr (printf "background-color: %s" .Site.Data.design.colors.header_background_color) }}">
-      <div class="container">
-        <div class="socialheader">
-          <ul class="header-social">
-            {{ $headerSocial := .Site.Data.profile.social_accounts }}
-            {{ with $headerSocial.facebook }}
-            <li><a href="{{ . }}" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></i></a></li>
-            {{end}}
-  
-            {{ with $headerSocial.instagram }}
-            <li><a href="{{ . }}" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
-            {{end}}
-
-            {{ with $headerSocial.houzz }}
-            <li><a href="{{ . }}" target="_blank" title="Houzz"><i class="fab fa-houzz"></i></a></li>
-            {{end}}
-  
-            {{ with $headerSocial.linkedin }}
-            <li><a href="{{ . }}" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-            {{end}}
-  
-            {{ with $headerSocial.pinterest }}
-            <li><a href="{{ . }}" target="_blank" title="Pinterest"><i class="fab fa-pinterest-p"></i></a></li>
-            {{end}}
-  
-            {{ with $headerSocial.twitter }}
-            <li><a href="{{ . }}" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-            {{end}}
-  
-            {{ with $headerSocial.youtube }}
-            <li><a href="{{ . }}" target="_blank" title="Youtube"><i class="fab fa-youtube"></i></a></li>
-            {{end}}
-  
-            {{ with $headerSocial.reddit }}
-            <li><a href="{{ . }}" target="_blank" title="Reddit">Reddit</a></li>
-            {{end}}
-          </ul>
-        </div>
-        <div class="navbar-brand">
-          <a class="navbar-item" href="/">
-                {{ with $.Site.Data.design.branding.logo }}
-            <img src="{{ . }}" alt="{{ $.Site.Data.design.branding.logo }}">
-                {{ else }}
-            <h1>{{ .Site.Data.design.logo_or_title.title }}</h1>
-                {{ end }}
-          </a>
-          <span class="navbar-burger burger" data-target="navbarMenuHeroC">
-            <span class="has-text-black"></span>
-            <span class="has-text-black"></span>
-            <span class="has-text-black"></span>
-          </span>
-        </div>
-        <div id="navbarMenuHeroC" class="navbar-menu">
-          <div class="navbar-end">
-            <ul class="head-nav">
-                {{ $currentPage := . }}
-                {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}
-                  <li class="sub-menu{{if $currentPage.HasMenuCurrent "main" . }} active{{end}}">
-                  <a href="javascript:;" class="parent-drop">
-                      {{ .Pre }}
-                      <span class="has-text-black">{{ .Name }}</span>
-                      <i class="fas fa-caret-down dropdown-i"></i>
-                  </a>
-                  <ul class="sub" style="background: #fff;">
-                      {{ range .Children }}
-                      <li{{if $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.URL}}" style="color:black">{{ .Name }}</a> </li>
-                      {{ end }}
-                  </ul>
-                {{else}}
-                  <li>
-                  <a href="{{.URL}}" class="nav-item has-text-black">
-                      {{ .Pre }}
-                      <span>{{ .Name }}</span>
-                  </a>
-                {{end}}
-                </li>
-                {{end}}
-            </ul>
-          </div>
-        </div>
-      </div>
-    </header>
+<!-- Hero head: will stick at the top -->
+<div class="branding">
+  <div class="container has-text-centered">
+    <img src="{{ .Site.Data.design.branding.logo }}" alt="" width="200">
   </div>
+</div>
+<div class="hero-head">
+
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-brand">
+        <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </div>
+      <div id="navbarMenuHeroA" class="navbar-menu">
+        <div class="navbar-end">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      {{ if .HasChildren }}
+          <div class="navbar-item has-dropdown is-hoverable main-drop">
+              <a class="navbar-link" href="javascript:;">
+                  {{ .Name }}
+              </a>
+              <!-- First Level Dropdown -->
+                  <div class="navbar-dropdown">
+                      {{ range .Children }}
+                          
+                          <a class="navbar-item {{ if .HasChildren }}navbar-link first-drop is-hoverable{{ end }}" href="{{ if .HasChildren }}javascript:;{{ else }}{{ .URL }}{{ end }}">
+                          {{ .Name }}
+                          </a>
+                      
+                      {{ end }}
+                </div>
+                <!-- End first level Dropdown -->
+          </div>
+          {{ else }} <!-- Else No Drop Down-->
+          <a href="{{ .URL |absURL }}" class="navbar-item">{{ .Name }}</a>
+      {{ end }}
+      {{ end }} <!-- End range menu -->
+    </div>
+  </div>
+    </div>
+  </nav>
+</div>
