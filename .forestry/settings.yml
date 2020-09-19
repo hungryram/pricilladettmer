@@ -9,6 +9,15 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: Blog
+- type: directory
+  path: content/blog
+  label: Posts
+  create: documents
+  match: "**/*"
+  templates:
+  - blog
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
