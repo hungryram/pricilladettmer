@@ -1,6 +1,6 @@
 baseURL = "https://lifeandbites.netlify.app/"
 languageCode = "en-us"
-summaryLength = 20
+summaryLength = 30
 [[menu.main]]
 name = "Home"
 url = "/"

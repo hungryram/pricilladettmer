@@ -2,7 +2,7 @@
     <div class="container">
         <div class="columns">
             <div class="column is-10">
-                <h1 class="title is-4">From the Blog</h1>
+                <h1 class="title is-1">From the Blog</h1>
                 <p>Find some inspiration on latest fashion trends on the blog.</p>
                 <div class="blog-container mt-6">
                     {{ range first 6 (where $.Site.RegularPages "Type" "blog") }}
@@ -15,7 +15,7 @@
                             <time><small>{{.Date.Format "Jan 2, 2006" }}</small></time><br>
                             <p>{{ .Summary }}</p>
                             <br>
-                            <a href="{{ .Permalink }}">Read the Article</a>
+                            <a href="{{ .Permalink }}" class="primary-btn">Read the Article</a>
                         </div>
                     </div>
                     {{ end }}

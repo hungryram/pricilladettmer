@@ -11,8 +11,25 @@ body h6.title {
 
 body p,
 body li,
-body a {
+body a,
+time,
+small,
+strong {
     font-family: 'Esteban', serif;
+}
+
+a.primary-btn {
+    background: transparent;
+    border: 1px solid #e58295;
+    color: #e58295;
+    transition: .3s ease;
+    padding: 10px 30px;
+}
+
+a.primary-btn:hover {
+    background: #e58295;
+    transition: .3s ease;
+    color: #fff;
 }
 
 /* NAVBAR */
@@ -169,4 +186,15 @@ div.hero-text {
 div.hero-text-container {
     padding: 20px;
     border: 1px solid rgb(229 130 149 / 22%);
+}
+
+/* SIDEBAR */
+
+ul.social {
+    margin: 0 auto;
+}
+
+ul.social li {
+    display: inline-block;
+    text-align: center;
 }
