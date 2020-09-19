@@ -9,3 +9,7 @@ sidebar:
   body_text: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem repellat,
     error explicabo distinctio expedita non neque? Animi est excepturi accusantium,
     debitis eaque fugiat magni iusto nam alias, voluptate eum numquam?
+hero:
+  image: "/uploads/new-blog-post-photo-frame-announcement-social-media-post.png"
+  heading: Welcome to Life and Bites
+  body_text: I talk about babies and food.
