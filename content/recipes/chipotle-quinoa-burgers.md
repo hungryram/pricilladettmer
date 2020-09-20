@@ -1,25 +1,24 @@
 +++
 author = "author/pricilla-dettmer.md"
-draft = true
 featured_image = "/uploads/chipotle-quinoa-burgers-2.jpg"
 title = "chipotle quinoa burgers"
 [nutrition_facts]
 calories = ""
-carbs = ""
-cholesterol = ""
-fiber = ""
-protein = ""
+carbs = "32.1g"
+cholesterol = "46.5mg"
+fiber = "9g"
+protein = " 11.2g"
 saturated_fat = ""
-sodium = ""
-sugar = ""
-total_fat = ""
+sodium = "437.4mg"
+sugar = "0.4g"
+total_fat = "2.9g"
 trans_fat = ""
 unsaturated_fat = ""
 [recipe]
 cook_time = "10 minutes"
 description = "Chipotle Quinoa Burgers – veggie burgers you’ll want to make again and again! Filling but not too dense, crispy but not crumbly, and with all the smokiness and yumminess with none of the meat."
-ingredients = ""
-instructions = ""
+ingredients = "* 1/2 cup **uncooked quinoa**\n* 1 can **black beans**, rinsed and drained\n* 1–2 **chipotle peppers**\n* 1/2 teaspoon each: **garlic powder, onion powder, chili powder, cumin**\n* 1 **egg**, beaten\n* 1 teaspoon **salt**\n* 1/4 cup **panko breadcrumbs**"
+instructions = "1. **Quinoa:** Cook quinoa according to package directions. Allow to cool.\n2. **Mix:** Place black beans, quinoa, chipotles, and spices, in a food processor. Pulse just a few times, enough to make the mixture sticky and well-mixed but not completely pureed. Ideally there will be some chunks of black beans still intact.\n3. **Add egg and panko:** Transfer mixture to a bowl. Using a spoon or your hands, mix with egg and panko. Form into 4 thick burgers. \n4. **Fry burgers:** Heat a generous swish of olive oil over medium high heat (nonstick pan works best here). Add burgers to the pan and fry for a few minutes on each side, flipping carefully to keep them intact, until they are golden brown and crispy on the outside.\n5. **Serve:** Serve on buns with spicy mayo, avocado, lettuce, tomato, pickled red onion, whatever suits your fancy! "
 prep_time = "15 minutes"
 
 +++
