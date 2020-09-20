@@ -1,17 +1,19 @@
 {{ $sidebarSocial := .Site.Data.profile.social_media }}
-<div class="rounded-image has-text-centered">
-    <img src="{{ .Site.Data.design.sidebar.photo }}" alt="" style="width:200px;height:200px;object-fit:cover;border-radius:50%">
+<div class="profile-image has-text-centered mb-5">
+    <img src="{{ .Site.Data.design.sidebar.photo }}" alt="" style="width:100%;height:300px;object-fit:cover;">
+    <h1 class="title is-6 has-text-centered mt-3 mb-3">{{ .Site.Data.design.sidebar.heading }}</h1>
+
 </div>
     <div class="author-bio">
-        <h1 class="title is-2 has-text-centered mt-5">{{ .Site.Data.design.sidebar.heading }}</h1>
         <p>{{ .Site.Data.design.sidebar.body_text | markdownify }}</p>
-        <ul class="social has-text-centered mt-6">
+        <h2 class="title is-6 mt-6 has-text-centered">Connect with me</h2>
+        <ul class="social has-text-centered">
             {{ if $sidebarSocial.facebook }}<li><a href="{{ $sidebarSocial.facebook }}" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-facebook" width="20" height="20" viewBox="0 0 24 24" stroke-width="1" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z"/>
                 <path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
               </svg>
-            </a></li>{{ end }}
+              <br>Facebook</a></li>{{ end }}
             {{ if $sidebarSocial.instagram }}<li><a href="{{ $sidebarSocial.instagram }}" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-instagram" width="20" height="20" viewBox="0 0 24 24" stroke-width="1" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z"/>
@@ -19,13 +21,13 @@
                 <circle cx="12" cy="12" r="3" />
                 <line x1="16.5" y1="7.5" x2="16.5" y2="7.501" />
               </svg>
-            </a></li>{{ end }}
+              <br>Instagram</a></li>{{ end }}
             {{ if $sidebarSocial.twitter }}<li><a href="{{ $sidebarSocial.twitter }}" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="20" height="20" viewBox="0 0 24 24" stroke-width="1" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z"/>
                 <path d="M22 4.01c-1 .49-1.98.689-3 .99-1.121-1.265-2.783-1.335-4.38-.737S11.977 6.323 12 8v1c-3.245.083-6.135-1.395-8-4 0 0-4.182 7.433 4 11-1.872 1.247-3.739 2.088-6 2 3.308 1.803 6.913 2.423 10.034 1.517 3.58-1.04 6.522-3.723 7.651-7.742a13.84 13.84 0 0 0 .497 -3.753C20.18 7.773 21.692 5.25 22 4.009z" />
               </svg>
-            </a></li>{{ end }}
+              <br>Twitter</a></li>{{ end }}
             {{ if $sidebarSocial.pinterest }}<li><a href="{{ $sidebarSocial.pinterest }}" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-pinterest" width="20" height="20" viewBox="0 0 24 24" stroke-width="1" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z"/>
@@ -33,14 +35,14 @@
                 <path d="M10.7 14C11.137 15.263 12.13 16 13.25 16c2.071 0 3.75-1.554 3.75-4a5 5 0 1 0 -9.7 1.7" />
                 <circle cx="12" cy="12" r="9" />
               </svg>
-            </a></li>{{ end }}
+              <br>Pinterest</a></li>{{ end }}
             {{ if $sidebarSocial.youtube }}<li><a href="{{ $sidebarSocial.youtube }}" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-youtube" width="20" height="20" viewBox="0 0 24 24" stroke-width="1" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z"/>
                 <rect x="3" y="5" width="18" height="14" rx="4" />
                 <path d="M10 9l5 3l-5 3z" />
               </svg>
-            </a></li>{{ end }}
+              <br>Youtube</a></li>{{ end }}
             {{ if $sidebarSocial.linkedin }}<li><a href="{{ $sidebarSocial.linkedin }}" target="_blank">
               <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="20" height="20" viewBox="0 0 24 24" stroke-width="1" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z"/>
@@ -50,7 +52,12 @@
                 <path d="M12 16v-5" />
                 <path d="M16 16v-3a2 2 0 0 0 -4 0" />
               </svg>
-            </a></li>{{ end }}
+              <br>Linkedin</a></li>{{ end }}
             </ul>
+            
+            <div class="subscribe">
+        <h2 class="title is-6 mt-6 has-text-centered">Join the Family</h2>
+              <input type="text" placeholder="Your Email">
+            </div>
     </div>
 </figure>

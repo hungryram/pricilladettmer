@@ -1,24 +1,21 @@
 {{ $footerContact := .Site.Data.profile.primary_contact }}
 {{ $footerLocation := .Site.Data.profile.location_information }}
 {{ $footerDesign := .Site.Data.design.footer }}
-{{ $footerSocial := .Site.Data.profile.social_accounts }}
+{{ $footerSocial := .Site.Data.profile.social_media }}
 <footer class="footer">
 <div class="section">
   <div class="container">
     <div class="columns">
-      <div class="column is-4">
-        {{ if $footerDesign.footer_logo }}
-          <img src="{{ $footerDesign.footer_logo | absURL }}" alt="{{ .Site.Data.profile.primary_company_name }}" width="200px" class="mb-5">
+      <div class="column has-text-centered">
+        {{ if .Site.Data.design.branding.logo }}
+          <img src="{{.Site.Data.design.branding.logo }}" alt="{{ .Site.Data.profile.primary_company_name }}" width="300" class="mb-5">
         {{ else }}
         {{ end }}
         <h2 class="title is-6 mb-0 has-text-white"></h2>
         {{ if $footerDesign.footer_bio }}
           <p class="pb-6 is-size-6">{{ $footerDesign.footer_bio }}</p>
         {{ end }}
-      </div>
-      <div class="column">
-        <h4 class="title is-6 has-text-white is-uppercase">Social</h4>
-        <ul>
+        <ul class="footer-social">
           {{ if $footerSocial.facebook }}<li><a href="{{ $footerSocial.facebook }}" target="_blank">Facebook</a></li>{{ end }}
           {{ if $footerSocial.instagram }}<li><a href="{{ $footerSocial.instagram }}" target="_blank">Instagram</a></li>{{ end }}
           {{ if $footerSocial.twitter }}<li><a href="{{ $footerSocial.twitter }}" target="_blank">Twitter</a></li>{{ end }}
@@ -33,35 +30,25 @@
           {{ if $footerSocial.yelp }}<li><a href="{{ $footerSocial.yelp }}" target="_blank">Yelp</a></li>{{ end }}
         </ul>
       </div>
-      <div class="column">
-        <h4 class="title is-6">Recent Posts</h4>
-        <ul>
-            {{ range  first 5 ( where $.Site.RegularPages "Type" "blog") }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{end}}
-        </ul>
-      </div>
-      <div class="column">
-        <h4 class="title is-6 has-text-white is-uppercase">Contact</h4>
-            <p><a href="mailto:{{ $footerContact.email }}">{{ $footerContact.email }}</a></p>
-            <p><a href="tel:{{ $footerContact.phone }}">{{ $footerContact.phone }}</a></p>
-            <p><a href="https://www.google.com/maps?q=7007+Washington+Blvd+Suite+211,Whittier,CA+90602" target="_blank">{{ $footerLocation.address }} {{ $footerLocation.city }} {{ $footerLocation.state }}, {{ $footerLocation.zip_code }}</a></p>
-      </div>
-    </div>
-    <div class="columns">
-      <div class="column has-text-centered-mobile">
-        <small class="is-size-7">&copy; Copyright {{ dateFormat "2006" now }}, {{ .Site.Data.profile.primary_company_name }} &middot; <a href="https://hungryram.com" target="_blank">Website Developed by Hungry Ram</a></small>
-      </div>
-      <div class="column has-text-centered-mobile has-text-right-desktop">
-        <ul>
-          <li class="is-inline-block mr-4 is-size-7"><a href="">Privacy Policy</a></li>
-          <li class="is-inline-block mr-4 is-size-7"><a href="">Accessibility</a></li>
-        </ul>
-      </div>
     </div>
   </div>
 </div>
 </footer>
+<div class="footer-credit">
+<div class="container">
+  <div class="columns">
+    <div class="column has-text-centered-mobile">
+      <small class="is-size-7 has-text-white">&copy; Copyright {{ dateFormat "2006" now }}, {{ .Site.Data.profile.primary_company_name }} &middot; <a href="https://hungryram.com" target="_blank" class="has-text-white">Website Developed by Hungry Ram</a></small>
+    </div>
+    <div class="column has-text-centered-mobile has-text-right-desktop">
+      <ul>
+        <li class="is-inline-block mr-4 is-size-7"><a href="" class="has-text-white">Privacy Policy</a></li>
+        <li class="is-inline-block mr-4 is-size-7"><a href="" class="has-text-white">Accessibility</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="{{.Site.BaseURL}}/js/main.min.js"></script>

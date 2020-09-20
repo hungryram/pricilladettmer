@@ -6,7 +6,8 @@ body h3.title,
 body h4.title,
 body h5.title,
 body h6.title {
-    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
 }
 
 body p,
@@ -16,6 +17,11 @@ time,
 small,
 strong {
     font-family: 'Esteban', serif;
+}
+
+svg.icon {
+    width: 1rem;
+    height: 1rem;
 }
 
 a.primary-btn {
@@ -189,6 +195,11 @@ div.hero-text {
     background: #fff;
 }
 
+h1.title.hero-title {
+    font-family: 'Caveat', cursive;
+    text-transform: capitalize;
+}
+
 div.hero-text-container {
     padding: 20px;
     border: 1px solid rgb(229 130 149 / 22%);
@@ -196,11 +207,52 @@ div.hero-text-container {
 
 /* SIDEBAR */
 
+.profile-image {
+    padding: 10px;
+    border: 1px solid rgb(229 130 149 / 22%);
+}
+
 ul.social {
     margin: 0 auto;
+    columns: 2;
 }
 
 ul.social li {
     display: inline-block;
     text-align: center;
+    margin: 8px;
+}
+
+ul.social li a {
+    color: #000;
+}
+
+div.subscribe input {
+    width: 100%;
+    height: 30px;
+    background: rgb(229 130 149 / 22%);
+    border: none;
+    padding: 20px;
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+/* FOOTER */
+
+footer.footer {
+    background: rgb(229 130 149 / 22%);
+}
+
+ul.footer-social li {
+    display: inline;
+    margin: 10px;
+}
+
+ul.footer-social li a {
+    color: #000;
+}
+
+.footer-credit {
+    background: #e997a7;
 }

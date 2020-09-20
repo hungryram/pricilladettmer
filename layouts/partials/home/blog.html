@@ -1,8 +1,8 @@
 <div class="section">
     <div class="container">
         <div class="columns">
-            <div class="column is-10">
-                <h1 class="title is-1">{{ .Site.Data.home.blog_list.heading }}</h1>
+            <div class="column is-9">
+                <h1 class="title is-3">{{ .Site.Data.home.blog_list.heading }}</h1>
                 <p>{{ .Site.Data.home.blog_list.body | markdownify }}</p>
                 <div class="blog-container mt-6">
                     {{ range first 6 (where $.Site.RegularPages "Type" "blog") }}
