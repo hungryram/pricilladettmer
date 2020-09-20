@@ -13,3 +13,7 @@ weight = 2
 name = "Contact"
 url = "/contact"
 weight = 5
+[taxonomies]
+category = "categories"
+tag = "tags"
+recipe = "recipes"
