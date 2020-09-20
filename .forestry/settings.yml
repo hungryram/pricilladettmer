@@ -32,6 +32,11 @@ sections:
   match: "**/*"
   templates:
   - blog
+- type: directory
+  path: content/recipes
+  label: Recipes
+  create: documents
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
