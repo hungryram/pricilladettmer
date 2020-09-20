@@ -1,4 +1,128 @@
 ---
 label: Recipes
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: featured_image
+  type: file
+  config:
+    maxSize: 2
+  label: Featured Image
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: author
+      file: 
+      path: 
+  label: Author
+- name: recipe
+  type: field_group
+  config: {}
+  fields:
+  - name: prep_time
+    type: text
+    config:
+      required: false
+    label: Prep Time
+  - name: cook_time
+    type: text
+    config:
+      required: false
+    label: Cook Time
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+  - name: ingredients
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Ingredients
+  - name: instructions
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Instructions
+  label: Recipe
+- name: nutrition_facts
+  type: field_group
+  config: {}
+  fields:
+  - name: total_fat
+    type: text
+    config:
+      required: false
+    label: Total Fat
+  - name: carbs
+    type: text
+    config:
+      required: false
+    label: Carbohydrates
+  - name: fiber
+    type: text
+    config:
+      required: false
+    label: Fiber
+  - name: calories
+    type: text
+    config:
+      required: false
+    label: Calories
+  - name: sugar
+    type: text
+    config:
+      required: false
+    label: Sugar
+  - name: sodium
+    type: text
+    config:
+      required: false
+    label: Sodium
+  - name: saturated_fat
+    type: text
+    config:
+      required: false
+    label: Saturated Fat
+  - name: unsaturated_fat
+    type: text
+    config:
+      required: false
+    label: Unsaturated Fat
+  - name: protein
+    type: text
+    config:
+      required: false
+    label: Protein
+  - name: cholesterol
+    type: text
+    config:
+      required: false
+    label: Cholesterol
+  - name: trans_fat
+    type: text
+    config:
+      required: false
+    label: Trans Fat
+  label: Nutrition Facts
