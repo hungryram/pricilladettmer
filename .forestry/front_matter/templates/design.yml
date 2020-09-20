@@ -70,5 +70,15 @@ fields:
         format: markdown
     label: Body Text
   label: Hero
+- name: sub_page
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 2
+    label: Image
+  label: Sub Page
 pages:
 - data/design.yaml
