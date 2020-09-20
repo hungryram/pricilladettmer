@@ -126,3 +126,5 @@ fields:
       required: false
     label: Trans Fat
   label: Nutrition Facts
+pages:
+- content/recipes/chipotle-quinoa-burgers.md
