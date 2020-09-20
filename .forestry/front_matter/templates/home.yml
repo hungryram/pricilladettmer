@@ -21,3 +21,5 @@ fields:
         format: markdown
     label: Body
   label: Blog List
+pages:
+- data/home.yaml
