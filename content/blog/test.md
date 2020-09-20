@@ -4,7 +4,7 @@ categories = ["introduction ", "about me", "contact"]
 date = 2020-09-15T07:00:00Z
 featured_image = "/uploads/new-blog-post-photo-frame-announcement-social-media-post-3.png"
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
-title = "Introductions and First Blog Post!"
+title = "BLOG"
 url = ""
 [menu.main]
 name = "Life"
