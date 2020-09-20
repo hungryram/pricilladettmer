@@ -1,0 +1,170 @@
+{{ define "main" }}
+<div class="section">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-9">
+                <div class="blog-container mt-6">
+                    <div class="columns">
+                        <div class="column content">
+                            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="mb-6">
+                            <h1 class="title is-1">{{ .Title }}</h1>
+                            {{ .Content }}
+                        </div>
+                    </div>
+                    <div class="columns">
+                        <div class="column is-three-fifths is-offset-one-fifth">
+                            <div class="recipe-container mt-6">
+                                <div class="recipe-heading has-text-centered pt-6 pb-6">
+                                    <h1 class="title is-4 has-text-white">{{ .Title }}</h1>
+                                    {{ if .Params.recipe.prep_time }}
+                                    <p class="has-text-white">Prep Time: {{ .Params.recipe.prep_time }}</p>
+                                    {{ end }}
+                                    {{ if .Params.recipe.cook_time }}
+                                    <p class="has-text-white">Cook Time: {{ .Params.recipe.cook_time }}</p>
+                                    {{ end }}
+                                </div>
+                                {{ if .Params.recipe.description }}
+                                <div class="recipe-description content mt-4">
+                                    <p style="color:#797979">Description</p>
+                                    <p>{{ .Params.recipe.description | markdownify }}</p>
+                                </div>
+                                {{ end }}
+                                {{ if .Params.recipe.ingredients }}
+                                <hr>
+                                <div class="recipe-description content mt-4">
+                                    <p style="color:#797979">Ingredients</p>
+                                    <p>{{ .Params.recipe.ingredients | markdownify }}</p>
+                                </div>
+                                {{ end }}
+                                {{ if .Params.recipe.instructions }}
+                                <hr>
+                                <div class="recipe-description content mt-4">
+                                    <p style="color:#797979">Instructions</p>
+                                    <p>{{ .Params.recipe.instructions | markdownify }}</p>
+                                </div>
+                                {{ end }}
+                                <h1 class="title is-5 has-text-centered nutrition-heading mb-0">Nutritional Facts</h1>
+                                <div class="nutrition-facts">
+                                    {{ if .Params.nutrition_facts.calories }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Calories </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.calories }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.carbs }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Carbs </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.carbs }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.cholesterol }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Cholesterol </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.cholesterol }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.fiber }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Fiber </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.fiber }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.protein }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Protein </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.protein }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.saturated_fat }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Saturated Fat </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.saturated_fat }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.sodium }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Sodium </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.sodium }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.sugar }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Sugar </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.sugar }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.total_fat }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Total Fat </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.total_fat }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.trans_fat }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Trans Fat </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.trans_fat }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                    {{ if .Params.nutrition_facts.unsaturated_fat }}
+                                    <div class="columns is-mobile">
+                                        <div class="column">
+                                            <p>Unsaturated Fat </p>
+                                        </div>
+                                        <div class="column">
+                                            <p>{{ .Params.nutrition_facts.unsaturated_fat }}</p>
+                                        </div>
+                                    </div>
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column">
+                {{ partial "templates/sidebar" . }}
+            </div>
+        </div>
+    </div>
+</div>
+{{end}}

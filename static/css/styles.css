@@ -238,6 +238,27 @@ div.subscribe input {
     -webkit-appearance: none;
 }
 
+/* RECIPE */
+
+div.recipe-heading {
+    background: #e58295;
+}
+
+div.nutrition-facts > div.columns:not(:last-child) {
+    border-bottom: 1px solid #e7e7e7;
+}
+
+div.nutrition-facts {
+    border: 1px solid #f8cdd5;
+    padding: 40px;
+}
+
+h1.nutrition-heading {
+    background: #e997a7;
+    color: #fff;
+    padding: 20px;
+}
+
 /* FOOTER */
 
 footer.footer {

@@ -4,7 +4,7 @@
         <div class="columns">
             <div class="column is-9">
                 <div class="blog-container mt-6">
-                    {{ range first 6 (where $.Site.RegularPages "Type" "blog") }}
+                    {{ range (where $.Site.RegularPages "Type" "blog") }}
                     <div class="columns">
                         <div class="column">
                             <img src="{{ .Params.featured_image }}" alt="">
