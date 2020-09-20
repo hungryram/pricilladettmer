@@ -1,31 +1,30 @@
 {{ define "main" }}
-
-<div class="section agent-lists">
+<div class="section">
     <div class="container">
         <div class="columns">
-            <div class="column is-8">
-                {{ $paginator := .Paginate (where .Pages "Type" "blog") 4 }}
-                {{ range $paginator.Pages }}
-
-                <div class="box content">
-                    <img src="{{ .Params.featured_image }}" alt="">
-                    <h1 class="title is-4">{{.Title}}</h1>
-                    <time>{{.Date.Format "Jan 2, 2006" }}</time><br><br>
-                    {{ .Summary | markdownify }}
+            <div class="column is-10">
+                <h1 class="title is-1">From the Blog</h1>
+                <p>Find some inspiration on latest fashion trends on the blog.</p>
+                <div class="blog-container mt-6">
+                    {{ range first 6 (where $.Site.RegularPages "Type" "blog") }}
                     <div class="columns">
                         <div class="column">
-                            {{ $blogDate := .Params.date_published }}
-                            <a href="{{ .Permalink }}" class="secondary-btn">Read More</a>
+                            <img src="{{ .Params.featured_image }}" alt="">
+                        </div>
+                        <div class="column">
+                            <h1 class="title is-4">{{ .Title }}</h1>
+                            <time><small>{{.Date.Format "Jan 2, 2006" }}</small></time><br>
+                            <p>{{ .Summary }}</p>
+                            <br>
+                            <a href="{{ .Permalink }}" class="primary-btn">Read the Article</a>
                         </div>
                     </div>
+                    {{ end }}
                 </div>
-                {{ end }}
-                    {{ partial "templates/pagination" . }}
             </div>
-            
-
-{{ partial "templates/sidebar" . }}
-
+            <div class="column">
+                {{ partial "templates/sidebar" . }}
+            </div>
         </div>
     </div>
 </div>

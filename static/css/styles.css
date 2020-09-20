@@ -32,6 +32,13 @@ a.primary-btn:hover {
     color: #fff;
 }
 
+div.page-banner {
+    display: flex;
+    align-items: center;
+    height: 30vh;
+    justify-content: center;
+}
+
 /* NAVBAR */
 
 @media screen and (min-width: 1024px){
