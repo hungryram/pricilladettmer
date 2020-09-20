@@ -1,4 +1,23 @@
 ---
 label: Home
 hide_body: true
-fields: []
+fields:
+- name: blog_list
+  type: field_group
+  config: {}
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
+  label: Blog List
