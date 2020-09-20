@@ -4,12 +4,13 @@ branding:
   title: Life & Bites
   favicon: "/uploads/yellow-shapes-children-kids-logo-9.png"
 sidebar:
-  photo: "/uploads/img_7729_facetune_23-02-2020-16-46-30_original.jpg"
-  heading: Welcome
-  body_text: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem repellat,
-    error explicabo distinctio expedita non neque? Animi est excepturi accusantium,
-    debitis eaque fugiat magni iusto nam alias, voluptate eum numquam?
+  photo: "/uploads/photo.jpg"
+  heading: About me
+  body_text: Hi there! I am a mommy to a 1 year old with multiple food allergies and
+    eczema, and here to share with you our life journey and delicious allergy friendly
+    recipes for everybody.
 hero:
   image: "/uploads/new-blog-post-photo-frame-announcement-social-media-post.png"
   heading: Welcome to Life and Bites
-  body_text: I talk about babies and food and some other things. Stay tuned for some more blog posts on babies, foods, recipes and adventures.
+  body_text: I talk about babies and food and some other things. Stay tuned for some
+    more blog posts on babies, foods, recipes and adventures.
