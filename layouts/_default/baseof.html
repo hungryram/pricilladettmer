@@ -2,12 +2,12 @@
 {{ partial "global/head" . }}
 {{ partial "global/navbar.html" . }}
 
-<div style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.8)),url({{ .Site.Data.design.sub_pages.sub_page_image }}); background-size: cover;background-position: top" class="page-banner">
+<div style="background:url({{ .Site.Data.design.sub_page.image }}) no-repeat center; background-size: cover;" class="page-banner">
     <div class="section">
         <div class="container">
             <div class="columns has-text-centered">
                 <div class="column">
-                    <h2 class="title is-3">{{ .Title }}</h2>
+                    <h2 class="title is-2 has-text-black">{{ .Title }}</h2>
                 </div>
             </div>
         </div>

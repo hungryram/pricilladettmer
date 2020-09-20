@@ -50,7 +50,6 @@ div.page-banner {
 
 div.branding {
     background: #ffffff;
-    height: 160px;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -62,7 +61,7 @@ div.branding {
 } */
 
 span.navbar-burger {
-    color: #fff;
+    color: #e58295;
 }
 
 nav.navbar {
@@ -126,7 +125,7 @@ div.hero-head {
 }
 
 @media (max-width: 1023px){
-    .navbar-end {
+    /* .navbar-end {
         display: flex;
         -ms-display: flex;
         align-items: center;
@@ -154,7 +153,7 @@ div.hero-head {
 
     .navbar-burger {
         z-index: 10;
-    }
+    } */
 
     /* MOBILE DROP DOWN */
     .navbar-dropdown {
