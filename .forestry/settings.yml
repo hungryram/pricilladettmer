@@ -37,6 +37,8 @@ sections:
   label: Recipes
   create: documents
   match: "**/*"
+  templates:
+  - recipes
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
