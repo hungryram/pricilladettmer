@@ -22,6 +22,10 @@ Welcome to my first introduction post. My name is Pricilla and I am a mom to a 1
 
 When Leo was about 3-4 months old, we noticed dry marks or what looks like a rash on his face. He also had this red spot on his scalp that the doctor said were cradle cap. We had visited several doctors and was reassured that this is very normal, and will go away. The doctors had said to use some cream, shampoo, and detergent. A month or so later, Leo’s skin condition had gotten so much worse it had spread from his face to his body, and pretty soon he lost all his hair. This broke my heart so badly during at this time, because I went to give him a bath one day, and noticed his hair fell out in clumps and his skin looked so infected even after following all instructions. In that timespan, we saw 5 different doctors and 2 different dermatologist, who all just brushed it off as if this was “normal” and just prescribed medication or told us to use different creams. They also brushed off when I had described what we went through with watching, and trying to prevent our baby scratching till he bled. Leo would  cry a lot because he was so itchy and in so much pain for months. I was determined to get to the bottom of this. If I knew what I knew now, I would saved myself so much heartache...
 
+![This rash was spreading from one side of cheek to the other, and went all over his face at the beginning.](/uploads/img_4997.jpg "Baby rash")
+
+This was his rash that spread from one side to the other cheek.
+
 ## THIS IS NOT NORMAL
 
 While, everyone I know that gave birth the same time as me, their baby hit all their milestones, and taking pictures of their little ones out and about. Here, I was holding my baby 24/7 and couldn’t take him out, because if I didn’t he would scratch and cry. He would scratch until he bled. But, the doctor said this was normal (again) and as a result of his severe eczema and atopic dermatitis skin condition. This was not normal.
