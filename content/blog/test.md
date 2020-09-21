@@ -10,8 +10,8 @@ url = ""
 name = "Life"
 weight = 3
 [search_engine_optimization]
-meta_description = ""
-title_tag = ""
+meta_description = "my baby story of his severe baby eczema and allergies"
+title_tag = "Baby eczema "
 
 +++
 # HI THERE!
@@ -24,7 +24,7 @@ When Leo was about 3-4 months old, we noticed dry marks or what looks like a ras
 
 ## THIS IS NOT NORMAL
 
-While, everyone I know that gave birth the same time as me, their baby hit all their milestones, and taking pictures of their little ones out and about. Here, I was holding my baby 24/7 and couldn’t take him out, because if I didn’t he would scratch and cry. He would scratch until he bled. But, the doctor said this was normal (again) and as a result of his severe eczema and atopic dermatitis skin condition. This was not normal. 
+While, everyone I know that gave birth the same time as me, their baby hit all their milestones, and taking pictures of their little ones out and about. Here, I was holding my baby 24/7 and couldn’t take him out, because if I didn’t he would scratch and cry. He would scratch until he bled. But, the doctor said this was normal (again) and as a result of his severe eczema and atopic dermatitis skin condition. This was not normal.
 
 I did not want to believe this was happening to my baby. I was so determined to get to the bottom of this. I spent countless hours researching on eczema, and it was so hard to find anything different than what the doctors had said. They had said there really is no cure, and Leo would grown out of it. But, instead of accepting it, and hoping it goes away. I dedicated all my free time to researching and educating myself. I told myself I would do whatever I can to help him feel better, and I focused on helping my son feel better and try to find what is triggering his flare ups.
 
@@ -38,7 +38,8 @@ I had talked to my doctor to refer me to an allergist, and this is where it chan
 
 Until next time!
 
-###### Important notes:  
+###### Important notes:
+
 This Site Does Not Provide Medical Advice and it is intended for the author to share her personal experience with others and is not meant to diagnose or treat any medical conditions or symptoms. All content provided on Life and Bites is for informational purposes and are not a substitute for professional medical advice or treatment. Always seek the advice of your physician or other qualified health provider regarding your health. Never disregard professional medical advice or delay in seeking it.
 
-###### If you think you may have a medical emergency, call your doctor or 911 immediately. 
+###### If you think you may have a medical emergency, call your doctor or 911 immediately.
