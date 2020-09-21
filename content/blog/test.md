@@ -26,7 +26,7 @@ When Leo was about 3-4 months old, we noticed dry marks or what looks like a ras
 
 While, everyone I know that gave birth the same time as me, their baby hit all their milestones, and taking pictures of their little ones out and about. Here, I was holding my baby 24/7 and couldn’t take him out, because if I didn’t he would scratch and cry. He would scratch until he bled. But, the doctor said this was normal (again) and as a result of his severe eczema and atopic dermatitis skin condition. This was not normal.
 
-I did not want to believe this was happening to my baby. I was so determined to get to the bottom of this. I spent countless hours researching on eczema, and it was so hard to find anything different than what the doctors had said. They had said there really is no cure, and Leo would grown out of it. But, instead of accepting it, and hoping it goes away. I dedicated all my free time to researching and educating myself. I told myself I would do whatever I can to help him feel better, and I focused on helping my son feel better and try to find what is triggering his flare ups.
+I did not want to believe this was happening to my baby. I was so determined to get to the bottom of this. I spent countless hours researching on eczema, and it was so hard to find anything different than what the doctors had said. They had said there really is no cure, and Leo would grown out of it. But, instead of accepting it, and hoping it goes away. I dedicated all my free time to researching, changing different routines, new things, and educating myself. I told myself I would do whatever I can to help him feel better, and I focused on helping my son feel better and try to find what is triggering his flare ups.
 
 ## EMERGENCY ROOM
 
