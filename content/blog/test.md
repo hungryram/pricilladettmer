@@ -1,6 +1,6 @@
 +++
 author = "author/pricilla-dettmer.md"
-categories = ["introduction ", "about me", "contact"]
+categories = ["life"]
 date = 2020-09-15T07:00:00Z
 featured_image = "/uploads/welcoming-autumn-instagram-post.png"
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
