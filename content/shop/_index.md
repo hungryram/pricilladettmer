@@ -1,6 +1,9 @@
 +++
 heading = "Browse useful products that has helped my journey"
 [[products]]
+amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B07BLM28LS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BLM28LS&linkCode=as2&tag=lifeandbites-20&linkId=05952988733b000b22b5b30332ea8cc1\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07BLM28LS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B07BLM28LS\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
+heading = "Sweat band"
+[[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B07CQF8YG5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CQF8YG5&linkCode=as2&tag=lifeandbites-20&linkId=ba4897ed9e06ddf18a9ac161559696bd\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CQF8YG5&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B07CQF8YG5\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = "Filter"
 [[products]]
