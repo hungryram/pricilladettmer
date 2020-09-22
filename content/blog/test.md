@@ -4,7 +4,7 @@ categories = ["life"]
 date = 2020-09-15T07:00:00Z
 featured_image = "/uploads/welcoming-autumn-instagram-post.png"
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
-title = "Raising a Baby with Severe Eczema"
+title = "Story of my Baby with Severe Eczema"
 url = "Raising a Baby with Severe Eczema"
 [menu.main]
 name = "Life"
