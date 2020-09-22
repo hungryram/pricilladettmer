@@ -1,6 +1,9 @@
 +++
 heading = "Browse useful products that has helped my journey"
 [[products]]
+amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B07CWK4S5W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CWK4S5W&linkCode=as2&tag=lifeandbites-20&linkId=8abd50735031ec53ccd91227cf5342af\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CWK4S5W&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B07CWK4S5W\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
+heading = "Haakaa Manual Breast Pump"
+[[products]]
 amazon_link = "<a href=\"https://www.amazon.com/dp/B07KGPWGZJ/ref=as_li_ss_il?psc=1&pd_rd_i=B07KGPWGZJ&pd_rd_w=tZd22&pf_rd_p=f0355a48-7e73-489a-9590-564e12837b93&pd_rd_wg=bEVAh&pf_rd_r=Z343FJH6FWEDMJ31ZWZ9&pd_rd_r=7216dc8e-33b8-49a1-898b-e2529a99a06d&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlBUWlE3RFVXMkpWJmVuY3J5cHRlZElkPUEwNTg5Mzc2MjUwRUZVM0NGUURGSiZlbmNyeXB0ZWRBZElkPUEwNDM0OTYxVElDUFFHWlU1SUZIJndpZGdldE5hbWU9c3BfZGV0YWlsX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==&linkCode=li3&tag=mobilea021845-20&linkId=f7999343ab3973f096526216e585223d&language=en_US\" target=\"_blank\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KGPWGZJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mobilea021845-20&language=en_US\" ></a><img src=\"https://ir-na.amazon-adsystem.com/e/ir?t=mobilea021845-20&language=en_US&l=li3&o=1&a=B07KGPWGZJ\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = "Feeding Set"
 [[products]]
