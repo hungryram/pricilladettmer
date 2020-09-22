@@ -24,6 +24,28 @@ fields:
       file: 
       path: 
   label: Author
+- name: recipes
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Meals
+    - Dinner
+    - Breakfast
+    - Lunch
+    - Snacks
+    - Soups
+    - Smoothies
+    - Desserts
+    - Vegan
+    - Clean Cleanse Recipes
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Recipes
 - name: recipe
   type: field_group
   config: {}
