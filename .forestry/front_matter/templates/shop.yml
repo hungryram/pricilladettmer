@@ -1,4 +1,26 @@
 ---
 label: Shop
 hide_body: true
-fields: []
+fields:
+- name: products
+  type: field_group_list
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: amazon_link
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Amazon Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Products
