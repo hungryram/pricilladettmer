@@ -24,3 +24,5 @@ fields:
     max: 
     labelField: 
   label: Products
+pages:
+- content/shop/_index.md
