@@ -6,9 +6,6 @@ featured_image = "/uploads/welcoming-autumn-instagram-post.png"
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
 title = "Story of my Baby with Severe Eczema"
 url = "Raising a Baby with Severe Eczema"
-[menu.main]
-name = "Life"
-weight = 3
 [search_engine_optimization]
 meta_description = "The story of how my baby was diagnosed with severe eczema and our journey to providing a healthy diet."
 title_tag = "Baby eczema - Life and Bites"
