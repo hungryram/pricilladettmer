@@ -10,8 +10,8 @@ url = ""
 name = "Life"
 weight = 3
 [search_engine_optimization]
-meta_description = "my baby story of his severe baby eczema and allergies"
-title_tag = "Baby eczema "
+meta_description = "The story of how my baby was diagnosed with severe eczema and our journey to providing a healthy diet."
+title_tag = "Baby eczema - Life and Bites"
 
 +++
 # HI THERE!
