@@ -1,4 +1,5 @@
 +++
+heading = "Browse useful products that has helped my journey"
 [[products]]
 amazon_link = "<a href=\"https://www.amazon.com/dp/B07YGR11CL/ref=as_li_ss_il?psc=1&pd_rd_i=B07YGR11CL&pd_rd_w=izu32&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=7vqWc&pf_rd_r=Q3WJ9BNXX53SWNFP8JWD&pd_rd_r=f2ee3239-41b4-40ce-90b7-6de8d96416d2&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVU4wSFJUWUdXUUlIJmVuY3J5cHRlZElkPUEwMjkyMjE5MTg2WTRQNDhFRVhINiZlbmNyeXB0ZWRBZElkPUEwMTQ1MTc5MzRJMUo5RVo2REtMUyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&linkCode=li3&tag=mobilea021845-20&linkId=c7b177e8580bf7bc6d4fbc7b4974ee1b&language=en_US\" target=\"_blank\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YGR11CL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mobilea021845-20&language=en_US\" ></a><img src=\"https://ir-na.amazon-adsystem.com/e/ir?t=mobilea021845-20&language=en_US&l=li3&o=1&a=B07YGR11CL\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = "Some Stick"
