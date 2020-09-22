@@ -24,6 +24,10 @@ sections:
   create: all
   match: "*"
 - type: document
+  path: content/contact/_index.md
+  label: Contact
+  match: "**/*"
+- type: document
   path: content/shop/_index.md
   label: Shop
 - type: heading
