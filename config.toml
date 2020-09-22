@@ -1,6 +1,6 @@
 baseURL = "https://lifeandbites.com/"
 languageCode = "en-us"
-summaryLength = 30
+summaryLength = 20
 [[menu.main]]
 name = "Recipes"
 url = "/recipes"

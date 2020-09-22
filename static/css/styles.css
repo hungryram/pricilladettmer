@@ -259,6 +259,12 @@ h1.nutrition-heading {
     padding: 20px;
 }
 
+/* BLOG */
+
+div.blog_wrap {
+    border: 3px solid rgb(233 151 167 / 26%);
+}
+
 /* FOOTER */
 
 footer.footer {

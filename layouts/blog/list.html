@@ -1,11 +1,11 @@
 {{ define "main" }}
 <div class="section">
     <div class="container">
-        <div class="columns">
+        <div class="columns is-variable is-6">
             <div class="column is-9">
-                <div class="blog-container mt-6">
+                <div class="blog-container">
                     {{ range (where $.Site.RegularPages "Type" "blog") }}
-                    <div class="columns">
+                    <div class="columns blog_wrap is-vcentered">
                         <div class="column">
                             <img src="{{ .Params.featured_image }}" alt="">
                         </div>
