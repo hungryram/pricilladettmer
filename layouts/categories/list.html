@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="section">
+    <div class="container">
+        <div class="columns is-variable is-6">
+            <div class="column is-9">
+                <div class="blog-container">
+                    {{ range (where $.Site.RegularPages "Type" "blog") }}
+                    <div class="columns blog_wrap is-vcentered">
+                        <div class="column">
+                            <img src="{{ .Params.featured_image }}" alt="">
+                        </div>
+                        <div class="column">
+                            <h1 class="title is-4 mb-2">{{ .Title }}</h1>
+                            <time><small>{{.Date.Format "Jan 2, 2006" }}</small></time><br>
+                            <p class="mt-4">{{ .Summary }}</p>
+                            <br>
+                            <a href="{{ .Permalink }}" class="primary-btn">Read the Article</a>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+            <div class="column">
+                {{ partial "templates/sidebar" . }}
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}

@@ -60,4 +60,16 @@
               <input type="text" placeholder="Your Email">
             </div>
     </div>
-</figure>
+<div class="blog-sidebar">
+  <h2 class="title is-6">Blog Categories</h2>
+  <ul>
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+    <li>
+      <a href="/categories{{ $name | urlize | relURL }}" class="has-text-black ml-3">{{ $name | humanize }}</a>
+    </li>
+    {{else}}
+    <p>No blog categories just yet</p>
+    {{ end }}
+
+  </ul>
+</div>

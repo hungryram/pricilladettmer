@@ -18,6 +18,23 @@ strong {
     font-family: 'Esteban', serif;
 }
 
+.content p {
+    line-height: 34px;
+}
+
+input.input,
+textarea.textarea {
+    background: #f8cdd5;
+    border: 0;
+    border-radius: 0;
+    color: #fff;
+}
+
+input.input::placeholder,
+textarea.textarea::placeholder {
+    color: #fff;
+}
+
 svg.icon {
     width: 1rem;
     height: 1rem;
@@ -81,7 +98,7 @@ a.navbar-item img {
 a.navbar-item,
 a.navbar-link {
     color: #000;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Esteban', serif;
     font-weight: 300;
     transition: color .3s ease;
 }
