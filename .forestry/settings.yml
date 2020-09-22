@@ -23,6 +23,10 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: document
+  path: content/shop/_index.md
+  label: Shop
+  match: "**/*"
 - type: heading
   label: Blog
 - type: directory
