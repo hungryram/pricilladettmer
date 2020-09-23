@@ -11,10 +11,10 @@ amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B0
 heading = ""
 [[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B07NVLPFP2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07NVLPFP2&linkCode=as2&tag=lifeandbites-20&linkId=a99c52eea038a99a7c3c3b6ef3af2858\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07NVLPFP2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B07NVLPFP2\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
-heading = "Mustela One piece"
+heading = ""
 [[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B07GF6WNQR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GF6WNQR&linkCode=as2&tag=lifeandbites-20&linkId=bb15aca52e1c86f680c646cdb81af980\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07GF6WNQR&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B07GF6WNQR\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
-heading = "Cotton Onesies"
+heading = ""
 [[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B01AXNTJOG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AXNTJOG&linkCode=as2&tag=lifeandbites-20&linkId=26131da0f2c7f2139e89f62dd9c9ee95\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AXNTJOG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B01AXNTJOG\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = "Allergy Mattress Cover"
