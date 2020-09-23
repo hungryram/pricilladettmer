@@ -30,4 +30,5 @@ fields:
     labelField: 
   label: Products
 pages:
+- content/favorites/_index.md
 - content/shop/_index.md
