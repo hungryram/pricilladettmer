@@ -1,5 +1,5 @@
 +++
-heading = "Browse useful products that has helped my journey"
+heading = "Browse useful items I used on my journey"
 [[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B06X3SD4VC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06X3SD4VC&linkCode=as2&tag=lifeandbites-20&linkId=63ed50ec607acd5c8b2b51dd975637c2\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06X3SD4VC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B06X3SD4VC\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = ""
