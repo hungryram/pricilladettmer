@@ -52,5 +52,15 @@ fields:
       required: false
     label: Email
   label: Contact Information
+- name: search_engine_optimization
+  type: field_group
+  config: {}
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: SEO
+  label: Search Engine Optimization
 pages:
 - data/profile.yaml
