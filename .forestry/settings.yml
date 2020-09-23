@@ -29,6 +29,10 @@ sections:
 - type: document
   path: content/shop/_index.md
   label: Shop
+- type: document
+  path: content/favorites/_index.md
+  label: Favorite Foods
+  match: "**/*"
 - type: heading
   label: Blog
 - type: directory

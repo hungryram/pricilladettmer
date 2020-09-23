@@ -29,5 +29,3 @@ fields:
     max: 
     labelField: 
   label: Products
-pages:
-- content/favorites/_index.md
