@@ -33,7 +33,7 @@ Here is my top 10 list no one tells you about Labor and Delivery.
 
 **6. I did not expect to be sewn up raw,** and the shots they give you does not numb anything. I had a 2nd degree tear and I got stitches, my epidural wore off so fast that I felt every pinch of needle that I got. I couldn’t even concentrate on my baby because the nurse was sewing me for 20 minutes. 
 
-**7.** **Peeing hurts..** it really hurts. Like it burns. You will need that peri bottle they give you or use the Frida baby bottle I find works so much better! (check out my list of things I used to help under "SHOP") or check out the link below.
+**7.** **Peeing hurts..and sitting hurts so bad.** it really hurts. Like it burns. You will need that peri bottle they give you or use the Frida baby bottle I find works so much better! (check out my list of things I used to help under "SHOP") or check out the link below. I'm super sensitive down there and I did not like the dermaplast spray that they give you. But, I did used the Earth Mama everytime I used the restroom after squeezing myself with the Frida Baby bottle, and then put on my diapers. This is game changer.
 
 **8.** **The first fart and poo hurts**, because of my hemorrhoids. I got a pretty bad hemorrhoid during childbirth and I could not sit or lay down or get comfortable. The nurse even freaked out when she saw it because she was so scared it would explode. So expect there to be A LOT of discomfort. I was so scared to take my first poo because I had so much stitches. Yes, it did hurt. I used a donut pillow which I didn't know existed until the 2nd week of suffering. THIS HELPED ME SO MUCH. I cannot stress this enough, this helped eased the pain of sitting down. 
 
@@ -62,5 +62,9 @@ Here is the list of things I mentioned:
     </iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B07QT937RZ&asins=B07QT937RZ&linkId=b7dd709b842fde7f8d9e43cb4ddb6294&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B0065ZTKWS&asins=B0065ZTKWS&linkId=29edc147d3b842634091fc617f2ed826&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
 
     </iframe>
