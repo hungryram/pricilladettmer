@@ -3,9 +3,9 @@ author = "author/pricilla-dettmer.md"
 categories = ["life"]
 date = ""
 draft = true
-featured_image = "/uploads/modern-podcast-episode-with-photograph-social-media-post.png"
+featured_image = "/uploads/modern-podcast-episode-with-photograph-social-media-post-1.png"
 tags = ["pregnancy", "labor and delivery", "life"]
-title = ""
+title = "10 Things No One Tells You About Labor & Delivery"
 url = ""
 [search_engine_optimization]
 meta_description = "The things you wouldn't expect during labor and delivery"
