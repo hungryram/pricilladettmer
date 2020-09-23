@@ -58,4 +58,5 @@ fields:
   template: url
   label: URL
 pages:
+- content/blog/10 Things No One Tells You About Labor & Delivery.md
 - content/blog/test.md
