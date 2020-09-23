@@ -1,6 +1,9 @@
 +++
 heading = "Browse useful products that has helped my journey"
 [[products]]
+amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B0091DS0UY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0091DS0UY&linkCode=as2&tag=lifeandbites-20&linkId=1f6d0fec5d9d603c853370a678a51dfb\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0091DS0UY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B0091DS0UY\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
+heading = "Detergent"
+[[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B08CLJP4KJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08CLJP4KJ&linkCode=as2&tag=lifeandbites-20&linkId=26a434abf2fd380ab287e355201176cc\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B08CLJP4KJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B08CLJP4KJ\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = "Sarna Cream"
 [[products]]
