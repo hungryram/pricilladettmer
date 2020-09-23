@@ -2,7 +2,7 @@
 heading = "Get in touch with me! "
 image = ""
 [menu.main]
-name = "Favorites"
+name = "Food Favorites"
 weight = 4
 
 +++
