@@ -39,8 +39,4 @@ I had talked to my doctor to refer me to an allergist, and this is where it chan
 
 Until next time!
 
-###### Important notes:
-
-This Site Does Not Provide Medical Advice and it is intended for the author to share her personal experience with others and is not meant to diagnose or treat any medical conditions or symptoms. All content provided on Life and Bites is for informational purposes and are not a substitute for professional medical advice or treatment. Always seek the advice of your physician or other qualified health provider regarding your health. Never disregard professional medical advice or delay in seeking it.
-
-###### If you think you may have a medical emergency, call your doctor or 911 immediately.
+###### 
