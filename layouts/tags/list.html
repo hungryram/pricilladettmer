@@ -11,7 +11,7 @@
                         </div>
                         <div class="column">
                             <h1 class="title is-4 mb-2">{{ .Title }}</h1>
-                            <time><small>{{.Date.Format "Jan 2, 2006" }}</small></time><br>
+                            {{ if .Params.date }}<time><small>{{.Date.Format "Jan 2, 2006" }}</small></time><br>{{ end }}
                             <p class="mt-4">{{ .Summary }}</p>
                             <br>
                             <a href="{{ .Permalink }}" class="primary-btn">Read the Article</a>
