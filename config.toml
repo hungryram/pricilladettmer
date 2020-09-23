@@ -25,4 +25,3 @@ weight = 6
 category = "categories"
 recipe = "recipes"
 tag = "tags"
-favorite = "favorites"

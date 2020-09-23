@@ -5,9 +5,9 @@
             <div class="column is-9">
                 <div class="blog-container">
                     {{ range (where $.Site.RegularPages "Type" "blog") }}
-                    <div class="columns blog_wrap is-vcentered">
+                    <div class="columns blog_wrap is-vcentered mt-2">
                         <div class="column">
-                            <img src="{{ .Params.featured_image }}" alt="">
+                            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
                         </div>
                         <div class="column">
                             <h1 class="title is-4 mb-2">{{ .Title }}</h1>

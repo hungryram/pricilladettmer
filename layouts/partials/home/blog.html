@@ -4,7 +4,7 @@
             <div class="column is-9">
                 <div class="blog-container">
                     {{ range first 6 (where $.Site.RegularPages "Type" "blog") }}
-                    <div class="columns blog_wrap is-vcentered">
+                    <div class="columns blog_wrap is-vcentered mt-2">
                         <div class="column">
                             <img src="{{ .Params.featured_image }}" alt="">
                         </div>
@@ -16,7 +16,9 @@
                             <a href="{{ .Permalink }}" class="primary-btn">Read the Article</a>
                         </div>
                     </div>
+
                     {{ end }}
+                    
                 </div>
             </div>
             <div class="column">
