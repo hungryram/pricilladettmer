@@ -1,6 +1,9 @@
 +++
 heading = "Browse useful products that has helped my journey"
 [[products]]
+amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B01AXNTJOG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AXNTJOG&linkCode=as2&tag=lifeandbites-20&linkId=26131da0f2c7f2139e89f62dd9c9ee95\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AXNTJOG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B01AXNTJOG\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
+heading = "Allergy Mattress Cover"
+[[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B07G6Z7T5Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G6Z7T5Y&linkCode=as2&tag=lifeandbites-20&linkId=d56f84346bae6dc7c2bc893a026186ec\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07G6Z7T5Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B07G6Z7T5Y\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = "Sock shoes"
 [[products]]
