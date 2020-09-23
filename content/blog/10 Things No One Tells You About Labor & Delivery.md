@@ -45,6 +45,22 @@ Here you have it. 10 things no one tells you about labor and delivery. I’m def
 
 Until next time!
 
-Please note by clicking this link and ordering, I am receiving a small commission. But, these are the products I used and can personally say is the best I've tried. Here is the list of things I mentioned:
+Please note by clicking this link and ordering, I am receiving a small commission. But, these are the products I used and can personally say is the best I've tried. 
 
-<a target="_blank"  href="[https://www.amazon.com/gp/product/B087NP74TZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087NP74TZ&linkCode=as2&tag=lifeandbites-20&linkId=4cf88198647d4e42c1378d951f05655d](https://www.amazon.com/gp/product/B087NP74TZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087NP74TZ&linkCode=as2&tag=lifeandbites-20&linkId=4cf88198647d4e42c1378d951f05655d "https://www.amazon.com/gp/product/B087NP74TZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087NP74TZ&linkCode=as2&tag=lifeandbites-20&linkId=4cf88198647d4e42c1378d951f05655d")"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B087NP74TZ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=lifeandbites-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B087NP74TZ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Here is the list of things I mentioned:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B087NP74TZ&asins=B087NP74TZ&linkId=7cc6ad4ed06398a09238a290a70eff38&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B07D3DXXWF&asins=B07D3DXXWF&linkId=a91d322887ae663d0705b5223b1173c7&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B07TXLZ8MR&asins=B07TXLZ8MR&linkId=349669f699fbd14e59cbc8dd632aa66e&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B07QT937RZ&asins=B07QT937RZ&linkId=b7dd709b842fde7f8d9e43cb4ddb6294&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+
+    </iframe>
