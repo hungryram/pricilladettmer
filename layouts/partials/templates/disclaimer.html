@@ -1,0 +1,7 @@
+{{ $disclaimer := .Site.Data.design.disclaimer }}
+<div class="columns">
+    <div class="column">
+        <h4 class="subtitle is-4">{{ $disclaimer.heading }}</h4>
+        <p>{{ $disclaimer.body | markdownify }}</p>
+    </div>
+</div>

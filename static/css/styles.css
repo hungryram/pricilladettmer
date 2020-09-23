@@ -95,22 +95,23 @@ a.navbar-item img {
     width: 150px;
 }
 
-a.navbar-item,
-a.navbar-link {
+div a.navbar-item,
+div a.navbar-link {
     color: #000;
     font-family: 'Esteban', serif;
     font-weight: 300;
-    transition: color .3s ease;
+    transition: .3s ease;
 }
+
 
 a.navbar-link:not(.is-arrowless)::after {
     border-color: white;
 }
 
 div a.navbar-item:hover {
-    background: none;
     color: #631B33;
     transition: color .3s ease;
+    background: #f8cdd5;
 }
 
 a.navbar-link:hover {

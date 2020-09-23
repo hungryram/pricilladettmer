@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="section">
+    <div class="container">
+        <div class="columns pt-5 pb-6">
+            <div class="column">
+                <h1 class="title is-4 has-text-weight-normal">{{ .Params.heading }}</h1>
+            </div>
+        </div>
+        <div class="columns is-variable is-6">
+            <div class="column is-9">
+                <div class="columns is-multiline is-variable is-2">
+                    {{ range .Params.products }}
+                        <div class="column is-3">
+                            <div class="card pt-4 pl-4 pr-4" style="height:100%">
+                                <div class="has-text-centered">
+                                    {{ .amazon_link | safeHTML }}
+                                </div>
+                                <h2 class="title is-5 has-text-centered pb-4 pt-4">{{ .heading }}</h2>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+            <div class="column">
+                {{ partial "templates/sidebar" . }}
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
