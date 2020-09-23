@@ -1,5 +1,5 @@
 +++
-heading = "Get in touch"
-image = "/uploads/summer-plain-collage-instagram-post.jpg"
+heading = "Get in touch with me! "
+image = ""
 
 +++
