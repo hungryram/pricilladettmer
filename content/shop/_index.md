@@ -1,6 +1,9 @@
 +++
 heading = "Browse useful items I used on my journey"
 [[products]]
+amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B00MJ4ZU32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MJ4ZU32&linkCode=as2&tag=lifeandbites-20&linkId=b58998dbbe9a0de569744bd2b484c6de\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MJ4ZU32&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B00MJ4ZU32\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
+heading = ""
+[[products]]
 amazon_link = "<a target=\"_blank\"  href=\"https://www.amazon.com/gp/product/B0065ZTKWS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0065ZTKWS&linkCode=as2&tag=lifeandbites-20&linkId=5251da74495f2ea2fb448d0dfba2d427\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0065ZTKWS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lifeandbites-20\" ></a><img src=\"//ir-na.amazon-adsystem.com/e/ir?t=lifeandbites-20&l=am2&o=1&a=B0065ZTKWS\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" />"
 heading = ""
 [[products]]
