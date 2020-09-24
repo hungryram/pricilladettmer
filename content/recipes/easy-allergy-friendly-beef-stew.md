@@ -23,4 +23,3 @@ instructions = "Rinse, pat dry beef and season with salt, pepper, flour. Heat ol
 prep_time = "30 minutes"
 
 +++
-![](/uploads/coral-red-recipe-pinterest-graphic-1.png)
