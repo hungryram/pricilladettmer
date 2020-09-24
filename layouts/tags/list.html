@@ -4,7 +4,7 @@
         <div class="columns is-variable is-6">
             <div class="column is-9">
                 <div class="blog-container">
-                    {{ range (where $.Site.RegularPages "Type" "blog") }}
+                    {{ range (where $.Site.RegularPages.ByDate "Type" "blog") }}
                     <div class="columns blog_wrap is-vcentered mt-2">
                         <div class="column">
                             <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
