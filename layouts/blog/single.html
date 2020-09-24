@@ -12,6 +12,12 @@
                         </div>
                     </div>
                     {{ partial "templates/disclaimer" . }}
+                          <div class="columns">
+                            <div class="column">
+                              <h1 class="title is-3">Leave a Comment</h1>
+                              <div class="fb-comments pt-6" data-href="{{ .Permalink }}" data-numposts="5" data-width="100%"></div>
+                            </div>
+                          </div>
                 </div>
             </div>
             <div class="column">
