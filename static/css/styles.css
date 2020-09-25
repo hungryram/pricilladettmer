@@ -262,6 +262,11 @@ div.subscribe input {
 
 /* RECIPE */
 
+div.recipe-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
 div.recipe-heading {
     background: #e58295;
 }
