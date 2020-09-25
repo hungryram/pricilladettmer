@@ -92,6 +92,9 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: show_nutrition
+    type: boolean
+    label: Show Nutrition
   - name: total_fat
     type: text
     config:
