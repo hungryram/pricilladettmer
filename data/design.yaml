@@ -15,6 +15,9 @@ hero:
   body_text: 'I talk about life with a child that has severe allergies and eczema,
     allergy friendly food recipes, tips and tricks I''ve learned to make my life so
     much easier, and so much more! '
+  slide:
+  - image: "/uploads/welcoming-autumn-instagram-post-5.png"
+  - image: "/uploads/grey-minimalist-framed-coffee-instagram-post-3.png"
 sub_page:
   image: ''
 disclaimer:
