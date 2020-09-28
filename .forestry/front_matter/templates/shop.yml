@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: Heading
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 - name: products
   type: field_group_list
   fields:
