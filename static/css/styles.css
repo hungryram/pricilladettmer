@@ -153,35 +153,6 @@ div.hero-head {
 }
 
 @media (max-width: 1023px){
-    /* .navbar-end {
-        display: flex;
-        -ms-display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        flex-direction: column;
-    }
-
-    .navbar-menu {
-        left: 20px;
-        -webkit-transition: all 1s ease;
-
-    }
-
-    .navbar-menu.is-active {
-        position: absolute;
-        left: 0;
-        right: 0;
-        top: 0;
-        background: black;
-        background-size:cover;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-
-    .navbar-burger {
-        z-index: 10;
-    } */
 
     /* MOBILE DROP DOWN */
     .navbar-dropdown {
@@ -310,3 +281,47 @@ ul.footer-social li a {
 .footer-credit {
     background: #e997a7;
 }
+
+  /** Hero Text Animation **/
+  
+  @-webkit-keyframes fadeInUpSD {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateY(100px);
+      transform: translateY(100px);
+    }
+  
+    100% {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none;
+    }
+  }
+  
+  @keyframes fadeInUpSD {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateY(100px);
+      transform: translateY(100px);
+    }
+  
+    100% {
+      opacity: 1;
+      -webkit-transform: none;
+      transform: none;
+    }
+  }
+  
+  .fadeInUpSD {
+    -webkit-animation-name: fadeInUpSD;
+    animation-name: fadeInUpSD;
+  }
+  
+  .slick-active .slide-content {
+    animation-name: fadeInUpSD;
+    animation-duration: 1s;
+    opacity: 1;
+    width: 100%;
+  }
+  
+  /* Text Animation End **/

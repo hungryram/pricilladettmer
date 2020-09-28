@@ -51,7 +51,60 @@
 </div>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="{{.Site.BaseURL}}/js/main.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-lightbox/0.2.12/slick-lightbox.min.js"></script>
+<script src="{{.Site.BaseURL}}/js/main.js"></script>
+<script>
+jQuery(document).ready(function ($) {
+	  $('.home-slide').slick({
+    dots: false,
+        pauseOnHover: false,
+        infinite: true,
+        speed: 500,
+        fade: !0,
+        cssEase: 'linear',
+		slidesToShow: 1,
+		slidesToScroll: 1,
+        autoplay: true,
+		autoplaySpeed: 5000,
+        draggable: false,
+		arrows: false,
+		responsive: [
+	    {
+		breakpoint: 1024,
+		settings: {
+		slidesToShow: 1,
+		slidesToScroll: 1,
+        infinite: true
+		          }
+        },
+        {
+		breakpoint: 768,
+		settings: {
+        draggable: true,
+		          }
+		},
+		{
+		breakpoint: 600,
+		settings: {
+        slidesToShow: 1,
+        draggable: true,
+		slidesToScroll: 1
+			      }
+		},
+		{
+		breakpoint: 480,
+		settings: {
+        slidesToShow: 1,
+        draggable: true,
+		slidesToScroll: 1
+		          }
+		}
+	
+			      ]
+                  });
+        });
+</script>
 <script>
   document.addEventListener('DOMContentLoaded', () => {
 

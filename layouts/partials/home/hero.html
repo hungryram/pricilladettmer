@@ -1,20 +1,25 @@
+{{ partial "global/navbar.html" . }}
 
-<section class="hero is-fullheight hero-container">
-    {{ partial "global/navbar" . }}
+<div class="home-slide">
+{{ range .Site.Data.design.hero.slide }}
+<section class="hero" style="background:url({{ .image }});height:80vh;background-size:cover;background-position:center;">
+  <!-- Hero head: will stick at the top -->
 
-    <div class="hero-body">
-      <div class="container">
-        <div class="columns is-vcentered">
-            <div class="column">
-                <img src="{{ .Site.Data.design.hero.image }}" alt="">
-            </div>
-            <div class="column hero-text">
-              <div class="hero-text-container">
-                <h1 class="title is-1 hero-title">{{ .Site.Data.design.hero.heading }}</h1>
-                <p>{{ .Site.Data.design.hero.body_text }}</p>
-              </div>
+
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body slide-content" style="margin-top:140px">
+    <div class="container">
+      <div class="columns is-vcentered">
+        <div class="column is-half is-offset-one-quarter has-text-white hero-text">
+          <div class="hero-text-container">
+            <h1 class="title is-1 has-text-black is-size-3-mobile">{{ .heading }}</h1>
+            <p class="mt-6 is-size-7-mobile has-text-black">{{ .body }}</p>
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </div>
+
+</section>
+{{ end }}
+</div>
