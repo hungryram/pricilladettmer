@@ -151,6 +151,16 @@ fields:
       required: false
     label: Trans Fat
   label: Nutrition Facts
+- name: search_engine_optimization
+  type: field_group
+  config: {}
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: SEO
+  label: Search Engine Optimization
 pages:
 - content/recipes/easy-allergy-friendly-beef-stew.md
 - content/recipes/easy-allergy-friendly-noodles.md
