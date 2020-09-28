@@ -50,20 +50,6 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: heading
-    type: text
-    config:
-      required: false
-    label: Heading
-  - name: body_text
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Body Text
   - name: slide
     type: field_group_list
     fields:
@@ -72,6 +58,20 @@ fields:
       config:
         maxSize: 64
       label: Image
+    - name: body
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Body
+    - name: heading
+      type: text
+      config:
+        required: false
+      label: Heading
     config:
       min: 
       max: 
