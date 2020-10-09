@@ -1,7 +1,7 @@
 +++
 author = "author/pricilla-dettmer.md"
 categories = ["LIFESTYLE", "life"]
-date = 2020-10-09T07:00:00Z
+date = 2020-10-08T07:00:00Z
 featured_image = "/uploads/how-goat-milk-helped-my-baby-ecezma-2.png"
 tags = ["kabrita", "baby ecezma", " formula", "formula for eczema ", "goat milk", "ecezma"]
 title = "HOW GOAT MILK HELPED HEAL MY BABY ECEZMA"
