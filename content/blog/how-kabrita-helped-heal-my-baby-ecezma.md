@@ -7,7 +7,7 @@ tags = ["kabrita", "baby ecezma", " formula", "formula for eczema ", "goat milk"
 title = "HOW GOAT MILK HELPED HEAL MY BABY ECEZMA"
 url = ""
 [search_engine_optimization]
-meta_description = "GOAT MILK HELPED HEAL MY BABY ECEZMA"
+meta_description = "I breastfed my son for most of his life but was in the process of weaning him off breastmilk to formula, and also used as a supplement when I was not producing enough milk"
 title_tag = "HOW CHANGING FORMULA HELPED HEAL MY BABY ECEZMA"
 
 +++
