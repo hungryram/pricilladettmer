@@ -2,7 +2,6 @@
 author = "author/pricilla-dettmer.md"
 categories = ["lifestyle"]
 date = 2020-10-13T07:00:00Z
-draft = true
 featured_image = "/uploads/soft-green-landmark-photos-social-media.png"
 tags = ["lifestyle", "pantry", "makeover", "diy", "pantrydiy", "pantrymakeover", "allergyfriendly", "glutenfree", "organization", "kitchendiy"]
 title = "Pantry Makeover "
@@ -12,7 +11,7 @@ meta_description = "Easy DIY pantry organization for food allergies "
 title_tag = "Easy DIY Pantry Organization Ideas "
 
 +++
-## **Organized Pantry = Less Stress**
+## **Easy Pantry DIY Makeover**
 
 **IT ALL STARTED WITH A PINTEREST PIN**
 
