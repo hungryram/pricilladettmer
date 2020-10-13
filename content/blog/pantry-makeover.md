@@ -1,18 +1,18 @@
 +++
-author = []
-categories = []
-date = ""
+author = "author/pricilla-dettmer.md"
+categories = ["lifestyle"]
+date = 2020-10-13T07:00:00Z
 draft = true
 featured_image = "/uploads/soft-green-landmark-photos-social-media.png"
-tags = []
+tags = ["lifestyle", "pantry", "makeover", "diy", "pantrydiy", "pantrymakeover", "allergyfriendly", "glutenfree", "organization", "kitchendiy"]
 title = "Pantry Makeover "
 url = ""
 [search_engine_optimization]
-meta_description = ""
-title_tag = ""
+meta_description = "Easy DIY pantry organization for food allergies "
+title_tag = "Easy DIY Pantry Organization Ideas "
 
 +++
-## **Organized Pantry = Happy Life**
+## **Organized Pantry = Less Stress**
 
 **IT ALL STARTED WITH A PINTEREST PIN**
 
@@ -24,7 +24,7 @@ I felt so disorganized and trying to find anything for Leo in that mess gave me 
 
 ![](/uploads/img_4121.JPG)
 
-I know it looks so crazy right? I'm not sure how I let it get that crazy to be honest. 
+I know it looks so crazy right? I'm not sure how I let it get that crazy to be honest.
 
 **THE IDEA AND DIY**
 
@@ -36,6 +36,6 @@ We added extra shelves to fit more pantry items.
 
 ![](/uploads/img_4521-2.jpg)
 
-Our final result. Of course we still need to add more items. But, I'm so happy with the 
+Our final result. Of course we still need to add more pantry items to fill it up. But, I'm so happy with it! More space and room to add items. 
 
 Overall, I’m happy with the way it turned out and I can’t wait to add more items into the pantry. What projects have you tackled this quarantine?
