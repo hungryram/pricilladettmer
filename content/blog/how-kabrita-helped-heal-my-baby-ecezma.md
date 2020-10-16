@@ -31,7 +31,7 @@ I did so much research to find formula alternatives and even spent hundreds of d
 
 He is still itching, but not as bad as before, and his skin does still flare up from time. Within 2-3 weeks, his face and body that was covered in infected eczema had cleared up significantly. The product is definitely not cheap, but I’m willing to try and spend anything to have my baby healed and happy. Thank you to Kabrita for making the most life changing product ever, without this goat milk formula my baby would never be able to heal. 
 
-Also, please note that the change in formula does have a big impact on the result of my son’s eczema, we also had to come up with a daily skincare routine to really make an even bigger impact. Please stay tuned for my next post where I will share with you my son’s skincare routine. Have you tried Kabrita Goat Milk? How was your experience?
+Also, please note that the change in formula does have the biggest impact on the result of my son’s eczema, but we also had to come up with a daily skincare routine to really make sure that his skin results stay consistent. Please stay tuned for my next post where I will share with you my son’s skincare routine. Have you tried Kabrita Goat Milk? How was your experience?
 
 These photos showed his progress from switching to Kabrita and changing his daily and skincare routine. I would say the first picture is from January and the last is from today (October 9,2020)![](/uploads/modern-blog-post-quote-in-notification-alert-social-media-post-2.png)
 
