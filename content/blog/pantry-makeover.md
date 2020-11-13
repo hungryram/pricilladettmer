@@ -21,7 +21,7 @@ When I first started trying to figure out what Leo can eat and what he can’t, 
 
 I felt so disorganized and trying to find anything for Leo in that mess gave me such a headache.
 
-![](/v1605254213/lifeandbites/img_4521-2_sawuwm.jpg)
+![](https://res.cloudinary.com/hungryram19/image/upload/v1605254213/lifeandbites/img_4121_e47wbd.jpg)
 
 I know it looks so crazy right? I'm not sure how I let it get that crazy to be honest.
 
@@ -29,10 +29,12 @@ I know it looks so crazy right? I'm not sure how I let it get that crazy to be h
 
 The idea was brought to my husband and we decided to DIYed it ourselves on a budget. We bought white wooden shelves from Lowe’s that we cut into the sizes of our pantry, organized with baskets from Target, white door shelves from Target as well, and clear containers from Amazon and Target. I love how the pantry turned out, it’s so much more organized. I separated my husband snacks for work and Leo’s allergy friendly snacks on separate shelves. Most of the things in the kitchen pantry are for Leo and the items we used we put in our overstock pantry. That way nothing gets mixed up or confused, especially with his severe allergies to certain food items.
 
-![](/v1605254211/lifeandbites/img_4324_cnjejv.jpg)
+![](https://res.cloudinary.com/hungryram19/image/upload/v1605254211/lifeandbites/img_4324_cnjejv.jpg)
 
 We added extra shelves to fit more pantry items.
 
 Our final result. Of course we still need to add more pantry items to fill it up. But, I'm so happy with it! More space and room to add items.
+
+![](https://res.cloudinary.com/hungryram19/image/upload/v1605254213/lifeandbites/img_4520-2_auzxir.jpg)
 
 Overall, I’m happy with the way it turned out and I can’t wait to add more items into the pantry. What projects have you tackled this quarantine?
