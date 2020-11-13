@@ -11,7 +11,7 @@ meta_description = "I breastfed my son for most of his life but was in the proce
 title_tag = "HOW CHANGING FORMULA HELPED HEAL MY BABY ECEZMA"
 
 +++
-HOW KABRITA HELPED HEAL MY BABY’S EZCEMA
+HOW KABRITA HELPED HEAL MY BABY’S ECZEMA
 
 This is from my experience and would like to share with you my story, and I would like to add that while Kabrita goat milk has made a significant difference, I still had to maintain a strict skincare/daily routine in order to keep his skin from flaring up. Everything I've tried has been okayed by Leo's doctor, but might not be the same for you. Please read the disclaimer below, and talk with your provider before trying anything.
 
