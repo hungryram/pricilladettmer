@@ -1,10 +1,10 @@
 ---
 branding:
-  logo: "/uploads/blogname.png"
+  logo: "/v1605254204/lifeandbites/blogname_o18oqz.png"
   title: Life & Bites
-  favicon: "/uploads/yellow-shapes-children-kids-logo-9.png"
+  favicon: "/v1605254242/lifeandbites/yellow-shapes-children-kids-logo-9_v6jhai.png"
 sidebar:
-  photo: "/uploads/photo.jpg"
+  photo: "/v1605254235/lifeandbites/photo_jr2v9r.jpg"
   heading: About me
   body_text: Hi there! I am a momma to a 1 year old with multiple food allergies and
     eczema, and here to share with you our life journey and delicious allergy friendly
@@ -16,12 +16,12 @@ hero:
     allergy friendly food recipes, tips and tricks I''ve learned to make my life so
     much easier, and so much more! '
   slide:
-  - image: "/uploads/main4.jpg"
+  - image: "/v1605254232/lifeandbites/main4_nmpii7.jpg"
     body: I talk about life with a child that has severe allergies and eczema, allergy
       friendly food recipes, tips and tricks I've learned to make my life so much
       easier, and so much more!
     heading: Welcome to Life & Bites!
-  - image: "/uploads/minimaldesk2.jpg"
+  - image: "/v1605254232/lifeandbites/minimaldesk2_pxe6cu.jpg"
     body: Our interesting blog journey begins here!
     heading: Follow Our Journey
 sub_page:
