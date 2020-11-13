@@ -37,8 +37,4 @@ These photos showed his progress from switching to Kabrita and changing his dail
 
 We love Kabrita Goat Milk Formula so much in our family, we love to share a link to a free trial. So you can try it out for yourself! Your baby might love it as much as mine. :) <a href="[https://shareasale.com/r.cfm?b=1194442&u=2595655&m=73892&urllink=&afftrack=](https://shareasale.com/r.cfm?b=1194442&u=2595655&m=73892&urllink=&afftrack= "CLAIM FREE TRIAL HERE")">Kabrita's Gentle Goat Milk Foods  + Bonus Value Coupons!</a>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B00MJ4ZU32&asins=B00MJ4ZU32&linkId=521d9c5dbd4df65b11f97653ffe9cbed&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-
-</iframe>
-
 \*By clicking these link I do earn small commission. But, all my opinion are solely my own and would not share with you if this did not help me.
