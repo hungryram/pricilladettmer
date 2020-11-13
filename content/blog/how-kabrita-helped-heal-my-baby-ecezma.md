@@ -13,7 +13,7 @@ title_tag = "HOW CHANGING FORMULA HELPED HEAL MY BABY ECEZMA"
 +++
 HOW KABRITA HELPED HEAL MY BABY’S EZCEMA
 
-I would like to start off with saying this is NOT a sponsored post from Kabrita. This is from my experience and would like to share with you my story, and I would like to add that while Kabrita goat milk has made a significant difference, I still had to maintain a strict skincare/daily routine in order to keep his skin from flaring up. Everything I've tried has been okayed by Leo's doctor, but might not be the same for you. Please read the disclaimer below, and talk with your provider before trying anything.
+This is from my experience and would like to share with you my story, and I would like to add that while Kabrita goat milk has made a significant difference, I still had to maintain a strict skincare/daily routine in order to keep his skin from flaring up. Everything I've tried has been okayed by Leo's doctor, but might not be the same for you. Please read the disclaimer below, and talk with your provider before trying anything.
 
 **MILK-BASED FORMULA EXPERIENCE:**
 
@@ -29,14 +29,16 @@ He was able to tolerate milk and soy okay or so I thought. I did not know how ba
 
 I did so much research to find formula alternatives and even spent hundreds of dollars trying various formulas to see a difference. But, I kept seeing goat milk as one of the best alternative to breastmilk. I was so skeptical because ..goat milk? I’ve never tried it and I haven’t heard anyone say they feed their babies goat milk. I did my research on goat milk and I came across Kabrita. According to the Kabrita website, “Naturally easy to digest, goat milk is an ideal protein base for baby formula. Like cow milk, goat milk must also be adapted and fortified to meet the specific nutritional needs of little ones.” The ingredients list was impressive and very simplified with explanations on the site, and the plus is that it is NON-GMO. I was anxious to try this and discovered Walmart and Amazon sold this. I bought 2 cans to start and waited till he was close to a year old to try, because the can was labeled for 12 months-24 months available. (Please do your own research and consult with your doctor if you want to try. Things that work for my baby might be different for your baby. Every baby is different.)
 
-My son used to constantly scratch all day and night and even in his sleep. But, after drinking Kabrita he only itches here and there, but not as bad as before, and his skin does still flare up from time. But, within 2-3 weeks, his face and body that was covered in infected eczema had cleared up significantly. The product is definitely not cheap, but I’m willing to try and spend anything to have my baby healed and happy. Thank you to Kabrita for making the most life changing product ever, without this goat milk formula my baby would never be able to heal. 
+My son used to constantly scratch all day and night and even in his sleep. But, after drinking Kabrita he only itches here and there, but not as bad as before, and his skin does still flare up from time. But, within 2-3 weeks, his face and body that was covered in infected eczema had cleared up significantly. The product is definitely not cheap, but I’m willing to try and spend anything to have my baby healed and happy. Thank you to Kabrita for making the most life changing product ever, without this goat milk formula my baby would never be able to heal.
 
 Also, please note that the change in formula does have the biggest impact on the result of my son’s eczema, but we also had to come up with a daily skincare routine to really make sure that his skin results stay consistent. Please stay tuned for my next post where I will share with you my son’s skincare routine. Have you tried Kabrita Goat Milk? How was your experience?
 
 These photos showed his progress from switching to Kabrita and changing his daily and skincare routine. I would say the first picture is from January and the last is from today (October 9,2020)![](/uploads/modern-blog-post-quote-in-notification-alert-social-media-post-2.png)
 
+We love Kabrita Goat Milk Formula so much in our family, we love to share a link to a free trial. So you can try it out for yourself! Your baby might love it as much as mine. :) <a href="[https://shareasale.com/r.cfm?b=1194442&u=2595655&m=73892&urllink=&afftrack=](https://shareasale.com/r.cfm?b=1194442&u=2595655&m=73892&urllink=&afftrack= "CLAIM FREE TRIAL HERE")">Kabrita's Gentle Goat Milk Foods  + Bonus Value Coupons!</a>
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lifeandbites-20&marketplace=amazon&region=US&placement=B00MJ4ZU32&asins=B00MJ4ZU32&linkId=521d9c5dbd4df65b11f97653ffe9cbed&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
 
 </iframe>
 
-\*By clicking this link I do earn small commission. But, all my opinion are solely my own and would not share with you if this did not help me.
+\*By clicking these link I do earn small commission. But, all my opinion are solely my own and would not share with you if this did not help me.
