@@ -14,6 +14,10 @@ body h6.title {
     font-family: 'Raleway', sans-serif;
 }
 
+div.content a {
+    color: #e58295;
+}
+
 body p,
 body li,
 body a,
