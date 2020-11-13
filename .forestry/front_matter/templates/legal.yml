@@ -18,4 +18,5 @@ fields:
   template: seo
   label: SEO
 pages:
+- content/legal/accessibility.md
 - content/legal/terms-and-conditions.md
