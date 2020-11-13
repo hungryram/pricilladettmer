@@ -1,27 +1,58 @@
-{{ $seo := .Site.Data.profile.search_engine_optimization }}
-{{ $logo := .Site.Data.design.logo_and_title.logo }}
-{{ $pageConfigSeo := .Site.Data.pageconfig }}
 
+{{ $seo := .Site.Data.profile.search_engine_optimization }}
+{{ $profile := .Site.Data.profile.website_title }}
+{{ $logo := .Site.Data.appearance.branding.logo }}
+{{ $bodyDesc := .Params.body | truncate 170 }}
 <!-- OPEN GRAPH -->
 <meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ $profile }}" />
+<meta property="og:locale" content="en_US" />
+{{- if .Params.Date -}}
+<meta property="article:published_time" content="{{ .Date }}" />
+{{ end }}
+{{- with .Params.featured_image | default $logo -}}
+<meta property="og:image" content="{{ $.Site.Params.cloudinary_url }}{{ . }}"/>
+{{ end }}
+
+{{- if .Params.author -}}
+{{- with .Site.GetPage .Params.author -}}
+<meta property="article:author" content="{{ .Permalink }}" />
+{{ end }}
+{{ end }}
+
 {{ if $.IsHome }}
-    <meta property="og:image" content="{{ $logo | absURL }}" />
-    <meta property="og:title" content="{{ $seo.title_tag }}" />
-    <meta property="og:description" content="{{ $seo.meta_description }}" />
+    <meta property="og:title" content="{{ $seo.title_tag }}"/>
+    <meta property="og:description" content="{{ $seo.meta_description }}"/>
     <meta property="og:type" content="website" />
 {{ else }}
-    <meta property="og:image" content="{{ if .Params.photos.gallery }}{{ index .Params.photos.gallery 0 |absURL }}{{ else }}{{ .Params.featured_image | absURL }}{{ end }}">
-    <meta property="og:title" content="{{ if $.Params.title_tag }}{{ $.Params.title_tag }}{{ else }}{{ $.Params.search_engine_optimization.title_tag }}{{ end }}" />
-    <meta property="og:description" content="{{ if $.Params.meta_description }}{{ $.Params.meta_description }}{{ else }}{{ $.Params.search_engine_optimization.meta_description }}{{ end }}" />
-    <meta property="og:type" content="{{ if .Params.featured_image }}article{{ else }}website{{ end }}" />
-{{ end }}
+
+{{- with .Params.title_tag | default .Params.search_engine_optimization.title_tag -}}
+<meta property="og:title" content="{{ . }}"/>
+{{ else }}
+<meta property="og:title" content="{{ .Params.Title }} - {{ $profile }}"/>
+{{- end }}
+{{ with .Params.meta_description | default .Params.search_engine_optimization.meta_description }}
+<meta property="og:description" content="{{ . }}" />
+{{ else }}
+<meta property="og:description" content="{{ .Summary | truncate 170 }}" />
+{{- end }}
+<meta property="og:type" content="{{ if in .Permalink "blog" }}article{{ else }}website{{ end }}"/>
+{{- end -}}
 <!-- END OPEN GRAPH -->
 
 <!-- BEGIN SEO -->
-{{ if $.IsHome }}
+{{- if $.IsHome -}}
     <title>{{ $seo.title_tag }}</title>
     <meta name="description" content="{{ $seo.meta_description }}">
 {{ else }}
-    {{ if .Params.title_tag }}<title>{{ .Params.title_tag }}</title>{{ else }}<title>{{ .Params.search_engine_optimization.title_tag }}</title>{{ end }}
-    {{ if $.Params.meta_description }}<meta name="description" content="{{ $.Params.meta_description }}">{{ else }}<meta name="description" content="{{ .Params.search_engine_optimization.meta_description }}">{{ end }}
-{{ end }}
+    {{ with .Params.title_tag | default .Params.search_engine_optimization.title_tag }}
+    <title>{{ . }}</title>
+    {{ else }}
+    <title>{{ .Params.Title }} - {{ $profile }}</title>
+    {{ end }}
+    {{ with .Params.meta_description | default .Params.search_engine_optimization.meta_description | default $bodyDesc  }}
+    <meta name="description" content="{{ . }}">
+    {{ else }}
+    <meta name="description" content="{{ .Summary | truncate 170 }}">
+    {{ end }}
+{{- end -}}
