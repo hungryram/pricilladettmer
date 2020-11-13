@@ -35,6 +35,6 @@ Also, please note that the change in formula does have the biggest impact on the
 
 These photos showed his progress from switching to Kabrita and changing his daily and skincare routine. I would say the first picture is from January and the last is from today (October 9,2020)![](/uploads/modern-blog-post-quote-in-notification-alert-social-media-post-2.png)
 
-We love Kabrita Goat Milk Formula so much in our family, we love to share a [link ]()to a free trial. So you can try it out for yourself! Your baby might love it as much as mine. :) Kabrita's Gentle Goat Milk Foods  + Bonus Value Coupons!
+We love Kabrita Goat Milk Formula so much in our family, we love to share a [link ](https://shareasale.com/r.cfm?b=1194442&u=2595655&m=73892&urllink=&afftrack=)to a free trial. So you can try it out for yourself! Your baby might love it as much as mine. :) Kabrita's Gentle Goat Milk Foods  + Bonus Value Coupons!
 
 \*By clicking these link I do earn small commission. But, all my opinion are solely my own and would not share with you if this did not help me.
