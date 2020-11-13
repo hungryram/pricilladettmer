@@ -2,7 +2,7 @@
 author = "author/pricilla-dettmer.md"
 categories = ["life"]
 date = 2020-09-15T07:00:00Z
-featured_image = "/uploads/welcoming-autumn-instagram-post-3.png"
+featured_image = "/v1605254242/lifeandbites/welcoming-autumn-instagram-post_vxrslk.png"
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
 title = "Story of my Baby with Severe Eczema"
 url = "Raising a Baby with Severe Eczema"
@@ -39,4 +39,4 @@ I had talked to my doctor to refer me to an allergist, and this is where it chan
 
 Until next time!
 
-###### 
+######
