@@ -33,7 +33,9 @@ My son used to constantly scratch all day and night and even in his sleep. But, 
 
 Also, please note that the change in formula does have the biggest impact on the result of my son’s eczema, but we also had to come up with a daily skincare routine to really make sure that his skin results stay consistent. Please stay tuned for my next post where I will share with you my son’s skincare routine. Have you tried Kabrita Goat Milk? How was your experience?
 
-These photos showed his progress from switching to Kabrita and changing his daily and skincare routine. I would say the first picture is from January and the last is from today (October 9,2020)![](/uploads/modern-blog-post-quote-in-notification-alert-social-media-post-2.png)
+These photos showed his progress from switching to Kabrita and changing his daily and skincare routine. I would say the first picture is from January and the last is from today (October 9,2020)
+
+![](https://res.cloudinary.com/hungryram19/image/upload/v1605254237/lifeandbites/modern-blog-post-quote-in-notification-alert-social-media-post-2_swspu5.png)
 
 We love Kabrita Goat Milk Formula so much in our family, we love to share a [link ](https://shareasale.com/r.cfm?b=1194442&u=2595655&m=73892&urllink=&afftrack=)to a free trial. So you can try it out for yourself! Your baby might love it as much as mine. :) Kabrita's Gentle Goat Milk Foods  + Bonus Value Coupons!
 
