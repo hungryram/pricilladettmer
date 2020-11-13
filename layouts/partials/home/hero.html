@@ -2,7 +2,7 @@
 
 <div class="home-slide">
 {{ range .Site.Data.design.hero.slide }}
-<section class="hero" style="background:url({{ .image }});height:80vh;background-size:cover;background-position:center;">
+<section class="hero" style="background:url({{ $.Site.Params.cloudinary_url }}{{ .image }});height:80vh;background-size:cover;background-position:center;">
   <!-- Hero head: will stick at the top -->
 
 

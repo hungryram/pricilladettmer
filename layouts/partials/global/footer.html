@@ -8,7 +8,7 @@
     <div class="columns">
       <div class="column has-text-centered">
         {{ if .Site.Data.design.branding.logo }}
-          <img src="{{.Site.Data.design.branding.logo }}" alt="{{ .Site.Data.profile.primary_company_name }}" width="300" class="mb-5">
+          <img src="{{ .Site.Params.cloudinary_url }}{{.Site.Data.design.branding.logo }}" alt="{{ .Site.Data.profile.primary_company_name }}" width="300" class="mb-5">
         {{ else }}
         {{ end }}
         <h2 class="title is-6 mb-0 has-text-white"></h2>
@@ -42,8 +42,10 @@
     </div>
     <div class="column has-text-centered-mobile has-text-right-desktop">
       <ul>
-        <li class="is-inline-block mr-4 is-size-7"><a href="" class="has-text-white">Privacy Policy</a></li>
-        <li class="is-inline-block mr-4 is-size-7"><a href="" class="has-text-white">Accessibility</a></li>
+        <li class="is-inline-block mr-4 is-size-7"><a href="/legal/privacy-policy" class="has-text-white">Privacy Policy</a></li>
+        <li class="is-inline-block mr-4 is-size-7"><a href="/legal/acessibility" class="has-text-white">Accessibility</a></li>
+        <li class="is-inline-block mr-4 is-size-7"><a href="/legal/terms-and-condition" class="has-text-white">Accessibility</a></li>
+        <li class="is-inline-block mr-4 is-size-7"><a href="/legal/" class="has-text-white">Legal Policies</a></li>
       </ul>
     </div>
   </div>

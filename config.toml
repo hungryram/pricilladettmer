@@ -1,6 +1,8 @@
 baseURL = "https://lifeandbites.com/"
 languageCode = "en-us"
 summaryLength = 20
+[params]
+cloudinary_url = "https://res.cloudinary.com/hungryram19/image/upload"
 [[menu.main]]
 name = "Food Favorites"
 url = "/favorites"

@@ -1,6 +1,6 @@
 {{ $sidebarSocial := .Site.Data.profile.social_media }}
 <div class="profile-image has-text-centered mb-5">
-    <img src="{{ .Site.Data.design.sidebar.photo }}" alt="" style="width:100%;height:300px;object-fit:cover;">
+    <img src="{{ .Site.Params.cloudinary_url }}{{ .Site.Data.design.sidebar.photo }}" alt="" style="width:100%;height:300px;object-fit:cover;">
     <h1 class="title is-6 has-text-centered mt-3 mb-3">{{ .Site.Data.design.sidebar.heading }}</h1>
 
 </div>
