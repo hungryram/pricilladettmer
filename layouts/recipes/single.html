@@ -6,7 +6,7 @@
                 <div class="blog-container mt-6">
                     <div class="columns">
                         <div class="column content">
-                            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="mb-6">
+                            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.featured_image }}" alt="{{ .Title }}" class="mb-6">
                             <h1 class="title is-1">{{ .Title }}</h1>
                             {{ .Content }}
                         </div>
