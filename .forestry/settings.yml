@@ -59,7 +59,7 @@ sections:
 - type: document
   path: content/legal/terms-and-conditions.md
   label: Terms and Conditions
-upload_dir: lifeandbites
+upload_dir: https://res.cloudinary.com/hungryram19/image/upload/v1605254237/lifeandbites
 public_path: https://res.cloudinary.com/hungryram19/image/upload
 front_matter_path: ''
 use_front_matter_path: 
