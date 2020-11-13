@@ -21,7 +21,6 @@ sections:
 - type: document
   path: content/legal/accessibility.md
   label: Accessibility
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
@@ -33,6 +32,9 @@ sections:
 - type: document
   path: content/favorites/_index.md
   label: Favorite Foods
+- type: document
+  path: content/contact/_index.md
+  label: Contact
 - type: heading
   label: Blog
 - type: directory
@@ -54,14 +56,9 @@ sections:
 - type: document
   path: content/legal/privacy-policy.md
   label: Privacy Policy
-  match: "**/*"
 - type: document
   path: content/legal/terms-and-condition.md
   label: Terms and Conditions
-  match: "**/*"
-- type: document
-  path: content/contact/_index.md
-  label: Contact
 upload_dir: lifeandbites
 public_path: ''
 front_matter_path: ''
