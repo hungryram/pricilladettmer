@@ -19,4 +19,5 @@ fields:
   label: SEO
 pages:
 - content/legal/accessibility.md
+- content/legal/privacy-policy.md
 - content/legal/terms-and-conditions.md
