@@ -57,7 +57,7 @@ sections:
   path: content/legal/accessibility.md
   label: Accessibility
 - type: document
-  path: content/legal/terms-and-condition.md
+  path: content/legal/terms-and-conditions.md
   label: Terms and Conditions
 upload_dir: lifeandbites
 public_path: ''
