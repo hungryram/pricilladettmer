@@ -2,7 +2,7 @@
 author = "author/pricilla-dettmer.md"
 categories = ["life"]
 date = 2020-09-25T07:00:00Z
-featured_image = "/uploads/modern-podcast-episode-with-photograph-social-media-post-1.png"
+featured_image = "/v1605254234/lifeandbites/modern-podcast-episode-with-photograph-social-media-post-1_bkxzht.png"
 tags = ["pregnancy", "labor and delivery", "life"]
 title = "10 Things No One Tells You About Labor & Delivery"
 url = ""

@@ -2,7 +2,7 @@
 author = "author/pricilla-dettmer.md"
 categories = ["life"]
 date = 2020-09-15T07:00:00Z
-featured_image = "/uploads/welcoming-autumn-instagram-post-3.png"
+featured_image = "/v1605254242/lifeandbites/welcoming-autumn-instagram-post_vxrslk.png"
 tags = ["allergies", "eczema", "baby", "toddler", "skincare", "lifestyle", "introduction"]
 title = "Story of my Baby with Severe Eczema"
 url = "Raising a Baby with Severe Eczema"
@@ -25,7 +25,7 @@ While, everyone I know that gave birth the same time as me, their baby hit all t
 
 I did not want to believe this was happening to my baby. I was so determined to get to the bottom of this. I spent countless hours researching on eczema, and it was so hard to find anything different than what the doctors had said. They had said there really is no cure, and Leo would grown out of it. But, instead of accepting it, and hoping it goes away. I dedicated all my free time to researching, changing different routines, new things, and educating myself. I told myself I would do whatever I can to help him feel better, and I focused on helping my son feel better and try to find what is triggering his flare ups.
 
-![](/uploads/welcoming-autumn-instagram-post-5.png)
+![](/v1605255768/lifeandbites/welcoming-autumn-instagram-post-5_is1f4p.png)
 
 I wanted to show you the progression of his eczema. This wasn't even when it got severe... I haven't been able to bring myself to look at his old photos.
 
