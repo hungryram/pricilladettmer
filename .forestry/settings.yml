@@ -18,14 +18,15 @@ sections:
   label: Author
   create: documents
   match: "**/*"
+- type: document
+  path: content/legal/accessibility.md
+  label: Accessibility
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
-- type: document
-  path: content/contact/_index.md
-  label: Contact
 - type: document
   path: content/shop/_index.md
   label: Shop
@@ -48,6 +49,19 @@ sections:
   match: "**/*"
   templates:
   - recipes
+- type: heading
+  label: Legal
+- type: document
+  path: content/legal/privacy-policy.md
+  label: Privacy Policy
+  match: "**/*"
+- type: document
+  path: content/legal/terms-and-condition.md
+  label: Terms and Conditions
+  match: "**/*"
+- type: document
+  path: content/contact/_index.md
+  label: Contact
 upload_dir: lifeandbites
 public_path: ''
 front_matter_path: ''
