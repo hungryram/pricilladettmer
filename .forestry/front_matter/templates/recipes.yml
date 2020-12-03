@@ -162,5 +162,6 @@ fields:
     label: SEO
   label: Search Engine Optimization
 pages:
+- content/recipes/allergy-friendly-roasted-butternut-squash-pasta.md
 - content/recipes/easy-allergy-friendly-beef-stew.md
 - content/recipes/easy-allergy-friendly-noodles.md
