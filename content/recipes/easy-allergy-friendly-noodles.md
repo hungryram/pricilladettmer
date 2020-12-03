@@ -1,6 +1,6 @@
 +++
 author = "author/pricilla-dettmer.md"
-featured_image = "/v1605254207/lifeandbites/coral-red-recipe-pinterest-graphic-2_qijc5p.png"
+featured_image = "/v1606979909/lifeandbites/Coral_Red_Recipe_Pinterest_Graphic_3_bp7ovw.png"
 recipes = "Meals"
 title = "Easy Allergy-Friendly Noodles"
 [nutrition_facts]
