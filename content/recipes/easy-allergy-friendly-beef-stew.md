@@ -1,6 +1,6 @@
 +++
 author = "author/pricilla-dettmer.md"
-featured_image = "/v1605254207/lifeandbites/coral-red-recipe-pinterest-graphic_gxtyfc.png"
+featured_image = "/v1606981452/lifeandbites/Coral_Red_Recipe_Pinterest_Graphic_6_qoc9mp.png"
 recipes = "Soups"
 title = "Easy Allergy-Friendly Beef Stew"
 [nutrition_facts]
